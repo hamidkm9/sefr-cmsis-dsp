@@ -1,0 +1,6 @@
+host/build/
+mcu/build/
+data/
+openml_cache/
+__pycache__/
+.venv/

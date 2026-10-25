@@ -1,0 +1,6 @@
+[submodule "third_party/CMSIS-DSP"]
+	path = third_party/CMSIS-DSP
+	url = https://github.com/ARM-software/CMSIS-DSP
+[submodule "third_party/CMSIS_6"]
+	path = third_party/CMSIS_6
+	url = https://github.com/ARM-software/CMSIS_6

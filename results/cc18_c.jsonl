@@ -1,0 +1,1065 @@
+{"ds": "balance-scale", "K": 3, "d": 4, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.872, "acc_ref": 0.872, "agree": 1.0}
+{"ds": "balance-scale", "K": 3, "d": 4, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.888, "acc_ref": 0.888, "agree": 1.0}
+{"ds": "balance-scale", "K": 3, "d": 4, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.904, "acc_ref": 0.904, "agree": 1.0}
+{"ds": "balance-scale", "K": 3, "d": 4, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.888, "acc_ref": 0.888, "agree": 1.0}
+{"ds": "balance-scale", "K": 3, "d": 4, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.88, "acc_ref": 0.88, "agree": 1.0}
+{"ds": "balance-scale", "K": 3, "d": 4, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.904, "acc_ref": 0.904, "agree": 1.0}
+{"ds": "balance-scale", "K": 3, "d": 4, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.896, "acc_ref": 0.896, "agree": 1.0}
+{"ds": "balance-scale", "K": 3, "d": 4, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.864, "acc_ref": 0.864, "agree": 1.0}
+{"ds": "balance-scale", "K": 3, "d": 4, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.888, "acc_ref": 0.888, "agree": 1.0}
+{"ds": "balance-scale", "K": 3, "d": 4, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.88, "acc_ref": 0.88, "agree": 1.0}
+{"ds": "balance-scale", "K": 3, "d": 4, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.856, "acc_ref": 0.856, "agree": 1.0}
+{"ds": "balance-scale", "K": 3, "d": 4, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.904, "acc_ref": 0.904, "agree": 1.0}
+{"ds": "balance-scale", "K": 3, "d": 4, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.912, "acc_ref": 0.912, "agree": 1.0}
+{"ds": "balance-scale", "K": 3, "d": 4, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.896, "acc_ref": 0.896, "agree": 1.0}
+{"ds": "balance-scale", "K": 3, "d": 4, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.92, "acc_ref": 0.92, "agree": 1.0}
+{"ds": "kc2", "K": 2, "d": 21, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.8761904761904762, "acc_ref": 0.8761904761904762, "agree": 1.0}
+{"ds": "kc2", "K": 2, "d": 21, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8571428571428571, "acc_ref": 0.8571428571428571, "agree": 1.0}
+{"ds": "kc2", "K": 2, "d": 21, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8666666666666667, "acc_ref": 0.8666666666666667, "agree": 1.0}
+{"ds": "kc2", "K": 2, "d": 21, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.8285714285714286, "acc_ref": 0.8285714285714286, "agree": 1.0}
+{"ds": "kc2", "K": 2, "d": 21, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8, "acc_ref": 0.8, "agree": 1.0}
+{"ds": "kc2", "K": 2, "d": 21, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8476190476190476, "acc_ref": 0.8476190476190476, "agree": 1.0}
+{"ds": "kc2", "K": 2, "d": 21, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.8269230769230769, "acc_ref": 0.8269230769230769, "agree": 1.0}
+{"ds": "kc2", "K": 2, "d": 21, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8269230769230769, "acc_ref": 0.8269230769230769, "agree": 1.0}
+{"ds": "kc2", "K": 2, "d": 21, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8365384615384616, "acc_ref": 0.8365384615384616, "agree": 1.0}
+{"ds": "kc2", "K": 2, "d": 21, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.8461538461538461, "acc_ref": 0.8461538461538461, "agree": 1.0}
+{"ds": "kc2", "K": 2, "d": 21, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8173076923076923, "acc_ref": 0.8173076923076923, "agree": 1.0}
+{"ds": "kc2", "K": 2, "d": 21, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8173076923076923, "acc_ref": 0.8173076923076923, "agree": 1.0}
+{"ds": "kc2", "K": 2, "d": 21, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.8461538461538461, "acc_ref": 0.8461538461538461, "agree": 1.0}
+{"ds": "kc2", "K": 2, "d": 21, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8076923076923077, "acc_ref": 0.8076923076923077, "agree": 1.0}
+{"ds": "kc2", "K": 2, "d": 21, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8461538461538461, "acc_ref": 0.8461538461538461, "agree": 1.0}
+{"ds": "pc1", "K": 2, "d": 21, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.8378378378378378, "acc_ref": 0.8378378378378378, "agree": 1.0}
+{"ds": "pc1", "K": 2, "d": 21, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.918918918918919, "acc_ref": 0.918918918918919, "agree": 1.0}
+{"ds": "pc1", "K": 2, "d": 21, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8738738738738738, "acc_ref": 0.8738738738738738, "agree": 1.0}
+{"ds": "pc1", "K": 2, "d": 21, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.8828828828828829, "acc_ref": 0.8828828828828829, "agree": 1.0}
+{"ds": "pc1", "K": 2, "d": 21, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9279279279279279, "acc_ref": 0.9279279279279279, "agree": 1.0}
+{"ds": "pc1", "K": 2, "d": 21, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8963963963963963, "acc_ref": 0.8963963963963963, "agree": 1.0}
+{"ds": "pc1", "K": 2, "d": 21, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.8648648648648649, "acc_ref": 0.8648648648648649, "agree": 1.0}
+{"ds": "pc1", "K": 2, "d": 21, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9279279279279279, "acc_ref": 0.9279279279279279, "agree": 1.0}
+{"ds": "pc1", "K": 2, "d": 21, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8918918918918919, "acc_ref": 0.8918918918918919, "agree": 1.0}
+{"ds": "pc1", "K": 2, "d": 21, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.8918918918918919, "acc_ref": 0.8918918918918919, "agree": 1.0}
+{"ds": "pc1", "K": 2, "d": 21, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9144144144144144, "acc_ref": 0.9144144144144144, "agree": 1.0}
+{"ds": "pc1", "K": 2, "d": 21, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8963963963963963, "acc_ref": 0.8963963963963963, "agree": 1.0}
+{"ds": "pc1", "K": 2, "d": 21, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.9140271493212669, "acc_ref": 0.9140271493212669, "agree": 1.0}
+{"ds": "pc1", "K": 2, "d": 21, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9321266968325792, "acc_ref": 0.9321266968325792, "agree": 1.0}
+{"ds": "pc1", "K": 2, "d": 21, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.918552036199095, "acc_ref": 0.918552036199095, "agree": 1.0}
+{"ds": "pc4", "K": 2, "d": 37, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.8493150684931506, "acc_ref": 0.8493150684931506, "agree": 1.0}
+{"ds": "pc4", "K": 2, "d": 37, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8595890410958904, "acc_ref": 0.8595890410958904, "agree": 1.0}
+{"ds": "pc4", "K": 2, "d": 37, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8767123287671232, "acc_ref": 0.8767123287671232, "agree": 1.0}
+{"ds": "pc4", "K": 2, "d": 37, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.8082191780821918, "acc_ref": 0.8082191780821918, "agree": 1.0}
+{"ds": "pc4", "K": 2, "d": 37, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8698630136986302, "acc_ref": 0.8698630136986302, "agree": 1.0}
+{"ds": "pc4", "K": 2, "d": 37, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8801369863013698, "acc_ref": 0.8801369863013698, "agree": 1.0}
+{"ds": "pc4", "K": 2, "d": 37, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.8116438356164384, "acc_ref": 0.8116438356164384, "agree": 1.0}
+{"ds": "pc4", "K": 2, "d": 37, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8595890410958904, "acc_ref": 0.8595890410958904, "agree": 1.0}
+{"ds": "pc4", "K": 2, "d": 37, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8904109589041096, "acc_ref": 0.8904109589041096, "agree": 1.0}
+{"ds": "pc4", "K": 2, "d": 37, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.8041237113402062, "acc_ref": 0.8041237113402062, "agree": 1.0}
+{"ds": "pc4", "K": 2, "d": 37, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.865979381443299, "acc_ref": 0.865979381443299, "agree": 1.0}
+{"ds": "pc4", "K": 2, "d": 37, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8419243986254296, "acc_ref": 0.8419243986254296, "agree": 1.0}
+{"ds": "pc4", "K": 2, "d": 37, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.7835051546391752, "acc_ref": 0.7835051546391752, "agree": 1.0}
+{"ds": "pc4", "K": 2, "d": 37, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.865979381443299, "acc_ref": 0.865979381443299, "agree": 1.0}
+{"ds": "pc4", "K": 2, "d": 37, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.865979381443299, "acc_ref": 0.865979381443299, "agree": 1.0}
+{"ds": "pc3", "K": 2, "d": 37, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.8338658146964856, "acc_ref": 0.8338658146964856, "agree": 1.0}
+{"ds": "pc3", "K": 2, "d": 37, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8849840255591054, "acc_ref": 0.8849840255591054, "agree": 1.0}
+{"ds": "pc3", "K": 2, "d": 37, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.19488817891373802, "acc_ref": 0.19488817891373802, "agree": 1.0}
+{"ds": "pc3", "K": 2, "d": 37, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.8434504792332268, "acc_ref": 0.8434504792332268, "agree": 1.0}
+{"ds": "pc3", "K": 2, "d": 37, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8977635782747604, "acc_ref": 0.8977635782747604, "agree": 1.0}
+{"ds": "pc3", "K": 2, "d": 37, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.14376996805111822, "acc_ref": 0.14376996805111822, "agree": 1.0}
+{"ds": "pc3", "K": 2, "d": 37, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.8178913738019169, "acc_ref": 0.8178913738019169, "agree": 1.0}
+{"ds": "pc3", "K": 2, "d": 37, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8881789137380192, "acc_ref": 0.8881789137380192, "agree": 1.0}
+{"ds": "pc3", "K": 2, "d": 37, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.2523961661341853, "acc_ref": 0.2523961661341853, "agree": 1.0}
+{"ds": "pc3", "K": 2, "d": 37, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.8076923076923077, "acc_ref": 0.8076923076923077, "agree": 1.0}
+{"ds": "pc3", "K": 2, "d": 37, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8685897435897436, "acc_ref": 0.8685897435897436, "agree": 1.0}
+{"ds": "pc3", "K": 2, "d": 37, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6794871794871795, "acc_ref": 0.6794871794871795, "agree": 1.0}
+{"ds": "pc3", "K": 2, "d": 37, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.842948717948718, "acc_ref": 0.842948717948718, "agree": 1.0}
+{"ds": "pc3", "K": 2, "d": 37, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8846153846153846, "acc_ref": 0.8846153846153846, "agree": 1.0}
+{"ds": "pc3", "K": 2, "d": 37, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.21794871794871795, "acc_ref": 0.21794871794871795, "agree": 1.0}
+{"ds": "blood-transfusion-service-center", "K": 2, "d": 4, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.7333333333333333, "acc_ref": 0.7333333333333333, "agree": 1.0}
+{"ds": "blood-transfusion-service-center", "K": 2, "d": 4, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7866666666666666, "acc_ref": 0.7866666666666666, "agree": 1.0}
+{"ds": "blood-transfusion-service-center", "K": 2, "d": 4, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7733333333333333, "acc_ref": 0.7733333333333333, "agree": 1.0}
+{"ds": "blood-transfusion-service-center", "K": 2, "d": 4, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.8066666666666666, "acc_ref": 0.8066666666666666, "agree": 1.0}
+{"ds": "blood-transfusion-service-center", "K": 2, "d": 4, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7866666666666666, "acc_ref": 0.7866666666666666, "agree": 1.0}
+{"ds": "blood-transfusion-service-center", "K": 2, "d": 4, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8, "acc_ref": 0.8, "agree": 1.0}
+{"ds": "blood-transfusion-service-center", "K": 2, "d": 4, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.6733333333333333, "acc_ref": 0.6733333333333333, "agree": 1.0}
+{"ds": "blood-transfusion-service-center", "K": 2, "d": 4, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7533333333333333, "acc_ref": 0.7533333333333333, "agree": 1.0}
+{"ds": "blood-transfusion-service-center", "K": 2, "d": 4, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7266666666666667, "acc_ref": 0.7266666666666667, "agree": 1.0}
+{"ds": "blood-transfusion-service-center", "K": 2, "d": 4, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.7046979865771812, "acc_ref": 0.7046979865771812, "agree": 1.0}
+{"ds": "blood-transfusion-service-center", "K": 2, "d": 4, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7449664429530202, "acc_ref": 0.7449664429530202, "agree": 1.0}
+{"ds": "blood-transfusion-service-center", "K": 2, "d": 4, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7248322147651006, "acc_ref": 0.7248322147651006, "agree": 1.0}
+{"ds": "blood-transfusion-service-center", "K": 2, "d": 4, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.6778523489932886, "acc_ref": 0.6778523489932886, "agree": 1.0}
+{"ds": "blood-transfusion-service-center", "K": 2, "d": 4, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7718120805369127, "acc_ref": 0.7718120805369127, "agree": 1.0}
+{"ds": "blood-transfusion-service-center", "K": 2, "d": 4, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.738255033557047, "acc_ref": 0.738255033557047, "agree": 1.0}
+{"ds": "banknote-authentication", "K": 2, "d": 4, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.8290909090909091, "acc_ref": 0.8290909090909091, "agree": 1.0}
+{"ds": "banknote-authentication", "K": 2, "d": 4, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8254545454545454, "acc_ref": 0.8254545454545454, "agree": 1.0}
+{"ds": "banknote-authentication", "K": 2, "d": 4, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8472727272727273, "acc_ref": 0.8472727272727273, "agree": 1.0}
+{"ds": "banknote-authentication", "K": 2, "d": 4, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.8472727272727273, "acc_ref": 0.8472727272727273, "agree": 1.0}
+{"ds": "banknote-authentication", "K": 2, "d": 4, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8436363636363636, "acc_ref": 0.8436363636363636, "agree": 1.0}
+{"ds": "banknote-authentication", "K": 2, "d": 4, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8472727272727273, "acc_ref": 0.8472727272727273, "agree": 1.0}
+{"ds": "banknote-authentication", "K": 2, "d": 4, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.8284671532846716, "acc_ref": 0.8284671532846716, "agree": 1.0}
+{"ds": "banknote-authentication", "K": 2, "d": 4, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8284671532846716, "acc_ref": 0.8284671532846716, "agree": 1.0}
+{"ds": "banknote-authentication", "K": 2, "d": 4, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8357664233576643, "acc_ref": 0.8357664233576643, "agree": 1.0}
+{"ds": "banknote-authentication", "K": 2, "d": 4, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.8394160583941606, "acc_ref": 0.8394160583941606, "agree": 1.0}
+{"ds": "banknote-authentication", "K": 2, "d": 4, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8394160583941606, "acc_ref": 0.8394160583941606, "agree": 1.0}
+{"ds": "banknote-authentication", "K": 2, "d": 4, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8576642335766423, "acc_ref": 0.8576642335766423, "agree": 1.0}
+{"ds": "banknote-authentication", "K": 2, "d": 4, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.8211678832116789, "acc_ref": 0.8211678832116789, "agree": 1.0}
+{"ds": "banknote-authentication", "K": 2, "d": 4, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8211678832116789, "acc_ref": 0.8211678832116789, "agree": 1.0}
+{"ds": "banknote-authentication", "K": 2, "d": 4, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8321167883211679, "acc_ref": 0.8321167883211679, "agree": 1.0}
+{"ds": "kc1", "K": 2, "d": 21, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.8317535545023697, "acc_ref": 0.8317535545023697, "agree": 1.0}
+{"ds": "kc1", "K": 2, "d": 21, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8601895734597157, "acc_ref": 0.8601895734597157, "agree": 1.0}
+{"ds": "kc1", "K": 2, "d": 21, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8436018957345972, "acc_ref": 0.8436018957345972, "agree": 1.0}
+{"ds": "kc1", "K": 2, "d": 21, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.8293838862559242, "acc_ref": 0.8293838862559242, "agree": 1.0}
+{"ds": "kc1", "K": 2, "d": 21, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8530805687203792, "acc_ref": 0.8530805687203792, "agree": 1.0}
+{"ds": "kc1", "K": 2, "d": 21, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8341232227488151, "acc_ref": 0.8341232227488151, "agree": 1.0}
+{"ds": "kc1", "K": 2, "d": 21, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.8317535545023697, "acc_ref": 0.8317535545023697, "agree": 1.0}
+{"ds": "kc1", "K": 2, "d": 21, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8483412322274881, "acc_ref": 0.8483412322274881, "agree": 1.0}
+{"ds": "kc1", "K": 2, "d": 21, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8364928909952607, "acc_ref": 0.8364928909952607, "agree": 1.0}
+{"ds": "kc1", "K": 2, "d": 21, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.8056872037914692, "acc_ref": 0.8056872037914692, "agree": 1.0}
+{"ds": "kc1", "K": 2, "d": 21, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8459715639810427, "acc_ref": 0.8459715639810427, "agree": 1.0}
+{"ds": "kc1", "K": 2, "d": 21, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8080568720379147, "acc_ref": 0.8080568720379147, "agree": 1.0}
+{"ds": "kc1", "K": 2, "d": 21, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.8076009501187649, "acc_ref": 0.8076009501187649, "agree": 1.0}
+{"ds": "kc1", "K": 2, "d": 21, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8479809976247031, "acc_ref": 0.8479809976247031, "agree": 1.0}
+{"ds": "kc1", "K": 2, "d": 21, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8052256532066508, "acc_ref": 0.8052256532066508, "agree": 1.0}
+{"ds": "ilpd", "K": 2, "d": 11, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.6666666666666666, "acc_ref": 0.6666666666666666, "agree": 1.0}
+{"ds": "ilpd", "K": 2, "d": 11, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.717948717948718, "acc_ref": 0.717948717948718, "agree": 1.0}
+{"ds": "ilpd", "K": 2, "d": 11, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5726495726495726, "acc_ref": 0.5726495726495726, "agree": 1.0}
+{"ds": "ilpd", "K": 2, "d": 11, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.7094017094017094, "acc_ref": 0.7094017094017094, "agree": 1.0}
+{"ds": "ilpd", "K": 2, "d": 11, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7094017094017094, "acc_ref": 0.7094017094017094, "agree": 1.0}
+{"ds": "ilpd", "K": 2, "d": 11, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5299145299145299, "acc_ref": 0.5299145299145299, "agree": 1.0}
+{"ds": "ilpd", "K": 2, "d": 11, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.5897435897435898, "acc_ref": 0.5897435897435898, "agree": 1.0}
+{"ds": "ilpd", "K": 2, "d": 11, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7008547008547008, "acc_ref": 0.7008547008547008, "agree": 1.0}
+{"ds": "ilpd", "K": 2, "d": 11, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.48717948717948717, "acc_ref": 0.48717948717948717, "agree": 1.0}
+{"ds": "ilpd", "K": 2, "d": 11, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.7068965517241379, "acc_ref": 0.7068965517241379, "agree": 1.0}
+{"ds": "ilpd", "K": 2, "d": 11, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7155172413793104, "acc_ref": 0.7155172413793104, "agree": 1.0}
+{"ds": "ilpd", "K": 2, "d": 11, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5948275862068966, "acc_ref": 0.5948275862068966, "agree": 1.0}
+{"ds": "ilpd", "K": 2, "d": 11, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.6551724137931034, "acc_ref": 0.6551724137931034, "agree": 1.0}
+{"ds": "ilpd", "K": 2, "d": 11, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7155172413793104, "acc_ref": 0.7155172413793104, "agree": 1.0}
+{"ds": "ilpd", "K": 2, "d": 11, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6206896551724138, "acc_ref": 0.6206896551724138, "agree": 1.0}
+{"ds": "mfeat-fourier", "K": 10, "d": 76, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.68, "acc_ref": 0.68, "agree": 1.0}
+{"ds": "mfeat-fourier", "K": 10, "d": 76, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.76, "acc_ref": 0.76, "agree": 1.0}
+{"ds": "mfeat-fourier", "K": 10, "d": 76, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7625, "acc_ref": 0.7625, "agree": 1.0}
+{"ds": "mfeat-fourier", "K": 10, "d": 76, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.66, "acc_ref": 0.66, "agree": 1.0}
+{"ds": "mfeat-fourier", "K": 10, "d": 76, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.77, "acc_ref": 0.77, "agree": 1.0}
+{"ds": "mfeat-fourier", "K": 10, "d": 76, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.735, "acc_ref": 0.735, "agree": 1.0}
+{"ds": "mfeat-fourier", "K": 10, "d": 76, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.6925, "acc_ref": 0.6925, "agree": 1.0}
+{"ds": "mfeat-fourier", "K": 10, "d": 76, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7525, "acc_ref": 0.7525, "agree": 1.0}
+{"ds": "mfeat-fourier", "K": 10, "d": 76, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.76, "acc_ref": 0.76, "agree": 1.0}
+{"ds": "mfeat-fourier", "K": 10, "d": 76, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.705, "acc_ref": 0.705, "agree": 1.0}
+{"ds": "mfeat-fourier", "K": 10, "d": 76, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7825, "acc_ref": 0.7825, "agree": 1.0}
+{"ds": "mfeat-fourier", "K": 10, "d": 76, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.775, "acc_ref": 0.775, "agree": 1.0}
+{"ds": "mfeat-fourier", "K": 10, "d": 76, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.68, "acc_ref": 0.68, "agree": 1.0}
+{"ds": "mfeat-fourier", "K": 10, "d": 76, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7775, "acc_ref": 0.7775, "agree": 1.0}
+{"ds": "mfeat-fourier", "K": 10, "d": 76, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.775, "acc_ref": 0.775, "agree": 1.0}
+{"ds": "mfeat-factors", "K": 10, "d": 216, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.85, "acc_ref": 0.85, "agree": 1.0}
+{"ds": "mfeat-factors", "K": 10, "d": 216, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9325, "acc_ref": 0.9325, "agree": 1.0}
+{"ds": "mfeat-factors", "K": 10, "d": 216, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.92, "acc_ref": 0.92, "agree": 1.0}
+{"ds": "mfeat-factors", "K": 10, "d": 216, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.8225, "acc_ref": 0.8225, "agree": 1.0}
+{"ds": "mfeat-factors", "K": 10, "d": 216, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9, "acc_ref": 0.9, "agree": 1.0}
+{"ds": "mfeat-factors", "K": 10, "d": 216, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.92, "acc_ref": 0.92, "agree": 1.0}
+{"ds": "mfeat-factors", "K": 10, "d": 216, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.8325, "acc_ref": 0.8325, "agree": 1.0}
+{"ds": "mfeat-factors", "K": 10, "d": 216, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.92, "acc_ref": 0.92, "agree": 1.0}
+{"ds": "mfeat-factors", "K": 10, "d": 216, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.905, "acc_ref": 0.905, "agree": 1.0}
+{"ds": "mfeat-factors", "K": 10, "d": 216, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.875, "acc_ref": 0.875, "agree": 1.0}
+{"ds": "mfeat-factors", "K": 10, "d": 216, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9525, "acc_ref": 0.9525, "agree": 1.0}
+{"ds": "mfeat-factors", "K": 10, "d": 216, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.945, "acc_ref": 0.945, "agree": 1.0}
+{"ds": "mfeat-factors", "K": 10, "d": 216, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.86, "acc_ref": 0.86, "agree": 1.0}
+{"ds": "mfeat-factors", "K": 10, "d": 216, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.94, "acc_ref": 0.94, "agree": 1.0}
+{"ds": "mfeat-factors", "K": 10, "d": 216, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.925, "acc_ref": 0.925, "agree": 1.0}
+{"ds": "ozone-level-8hr", "K": 2, "d": 72, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.8717948717948718, "acc_ref": 0.8717948717948718, "agree": 1.0}
+{"ds": "ozone-level-8hr", "K": 2, "d": 72, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9368836291913215, "acc_ref": 0.9368836291913215, "agree": 1.0}
+{"ds": "ozone-level-8hr", "K": 2, "d": 72, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7238658777120316, "acc_ref": 0.7238658777120316, "agree": 1.0}
+{"ds": "ozone-level-8hr", "K": 2, "d": 72, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.8441814595660749, "acc_ref": 0.8441814595660749, "agree": 1.0}
+{"ds": "ozone-level-8hr", "K": 2, "d": 72, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9368836291913215, "acc_ref": 0.9368836291913215, "agree": 1.0}
+{"ds": "ozone-level-8hr", "K": 2, "d": 72, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6903353057199211, "acc_ref": 0.6903353057199211, "agree": 1.0}
+{"ds": "ozone-level-8hr", "K": 2, "d": 72, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.8362919132149902, "acc_ref": 0.8362919132149902, "agree": 1.0}
+{"ds": "ozone-level-8hr", "K": 2, "d": 72, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9368836291913215, "acc_ref": 0.9368836291913215, "agree": 1.0}
+{"ds": "ozone-level-8hr", "K": 2, "d": 72, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6844181459566075, "acc_ref": 0.6844181459566075, "agree": 1.0}
+{"ds": "ozone-level-8hr", "K": 2, "d": 72, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.814595660749507, "acc_ref": 0.814595660749507, "agree": 1.0}
+{"ds": "ozone-level-8hr", "K": 2, "d": 72, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9368836291913215, "acc_ref": 0.9368836291913215, "agree": 1.0}
+{"ds": "ozone-level-8hr", "K": 2, "d": 72, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6706114398422091, "acc_ref": 0.6706114398422091, "agree": 1.0}
+{"ds": "ozone-level-8hr", "K": 2, "d": 72, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.8181818181818182, "acc_ref": 0.8181818181818182, "agree": 1.0}
+{"ds": "ozone-level-8hr", "K": 2, "d": 72, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9367588932806324, "acc_ref": 0.9367588932806324, "agree": 1.0}
+{"ds": "ozone-level-8hr", "K": 2, "d": 72, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6956521739130435, "acc_ref": 0.6956521739130435, "agree": 1.0}
+{"ds": "qsar-biodeg", "K": 2, "d": 41, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.7914691943127962, "acc_ref": 0.7914691943127962, "agree": 1.0}
+{"ds": "qsar-biodeg", "K": 2, "d": 41, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8199052132701422, "acc_ref": 0.8199052132701422, "agree": 1.0}
+{"ds": "qsar-biodeg", "K": 2, "d": 41, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7298578199052133, "acc_ref": 0.7298578199052133, "agree": 1.0}
+{"ds": "qsar-biodeg", "K": 2, "d": 41, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.7488151658767772, "acc_ref": 0.7488151658767772, "agree": 1.0}
+{"ds": "qsar-biodeg", "K": 2, "d": 41, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8104265402843602, "acc_ref": 0.8104265402843602, "agree": 1.0}
+{"ds": "qsar-biodeg", "K": 2, "d": 41, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6682464454976303, "acc_ref": 0.6682464454976303, "agree": 1.0}
+{"ds": "qsar-biodeg", "K": 2, "d": 41, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.7298578199052133, "acc_ref": 0.7298578199052133, "agree": 1.0}
+{"ds": "qsar-biodeg", "K": 2, "d": 41, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8293838862559242, "acc_ref": 0.8293838862559242, "agree": 1.0}
+{"ds": "qsar-biodeg", "K": 2, "d": 41, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7156398104265402, "acc_ref": 0.7156398104265402, "agree": 1.0}
+{"ds": "qsar-biodeg", "K": 2, "d": 41, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.7772511848341233, "acc_ref": 0.7772511848341233, "agree": 1.0}
+{"ds": "qsar-biodeg", "K": 2, "d": 41, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7867298578199052, "acc_ref": 0.7867298578199052, "agree": 1.0}
+{"ds": "qsar-biodeg", "K": 2, "d": 41, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7440758293838863, "acc_ref": 0.7440758293838863, "agree": 1.0}
+{"ds": "qsar-biodeg", "K": 2, "d": 41, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.7630331753554502, "acc_ref": 0.7630331753554502, "agree": 1.0}
+{"ds": "qsar-biodeg", "K": 2, "d": 41, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8151658767772512, "acc_ref": 0.8151658767772512, "agree": 1.0}
+{"ds": "qsar-biodeg", "K": 2, "d": 41, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6919431279620853, "acc_ref": 0.6919431279620853, "agree": 1.0}
+{"ds": "breast-w", "K": 2, "d": 9, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.9357142857142857, "acc_ref": 0.9357142857142857, "agree": 1.0}
+{"ds": "breast-w", "K": 2, "d": 9, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9571428571428572, "acc_ref": 0.9571428571428572, "agree": 1.0}
+{"ds": "breast-w", "K": 2, "d": 9, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9642857142857143, "acc_ref": 0.9642857142857143, "agree": 1.0}
+{"ds": "breast-w", "K": 2, "d": 9, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.9285714285714286, "acc_ref": 0.9285714285714286, "agree": 1.0}
+{"ds": "breast-w", "K": 2, "d": 9, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.95, "acc_ref": 0.95, "agree": 1.0}
+{"ds": "breast-w", "K": 2, "d": 9, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9571428571428572, "acc_ref": 0.9571428571428572, "agree": 1.0}
+{"ds": "breast-w", "K": 2, "d": 9, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.9571428571428572, "acc_ref": 0.9571428571428572, "agree": 1.0}
+{"ds": "breast-w", "K": 2, "d": 9, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9571428571428572, "acc_ref": 0.9571428571428572, "agree": 1.0}
+{"ds": "breast-w", "K": 2, "d": 9, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9571428571428572, "acc_ref": 0.9571428571428572, "agree": 1.0}
+{"ds": "breast-w", "K": 2, "d": 9, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.9214285714285714, "acc_ref": 0.9214285714285714, "agree": 1.0}
+{"ds": "breast-w", "K": 2, "d": 9, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9428571428571428, "acc_ref": 0.9428571428571428, "agree": 1.0}
+{"ds": "breast-w", "K": 2, "d": 9, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9571428571428572, "acc_ref": 0.9571428571428572, "agree": 1.0}
+{"ds": "breast-w", "K": 2, "d": 9, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.920863309352518, "acc_ref": 0.920863309352518, "agree": 1.0}
+{"ds": "breast-w", "K": 2, "d": 9, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9424460431654677, "acc_ref": 0.9424460431654677, "agree": 1.0}
+{"ds": "breast-w", "K": 2, "d": 9, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9496402877697842, "acc_ref": 0.9496402877697842, "agree": 1.0}
+{"ds": "phoneme", "K": 2, "d": 5, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.7807585568917669, "acc_ref": 0.7807585568917669, "agree": 1.0}
+{"ds": "phoneme", "K": 2, "d": 5, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.759481961147086, "acc_ref": 0.759481961147086, "agree": 1.0}
+{"ds": "phoneme", "K": 2, "d": 5, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7585568917668826, "acc_ref": 0.7585568917668826, "agree": 1.0}
+{"ds": "phoneme", "K": 2, "d": 5, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.793709528214616, "acc_ref": 0.793709528214616, "agree": 1.0}
+{"ds": "phoneme", "K": 2, "d": 5, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7789084181313598, "acc_ref": 0.7789084181313598, "agree": 1.0}
+{"ds": "phoneme", "K": 2, "d": 5, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.786308973172988, "acc_ref": 0.786308973172988, "agree": 1.0}
+{"ds": "phoneme", "K": 2, "d": 5, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.7724329324699353, "acc_ref": 0.7724329324699353, "agree": 1.0}
+{"ds": "phoneme", "K": 2, "d": 5, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7779833487511564, "acc_ref": 0.7779833487511564, "agree": 1.0}
+{"ds": "phoneme", "K": 2, "d": 5, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7604070305272895, "acc_ref": 0.7604070305272895, "agree": 1.0}
+{"ds": "phoneme", "K": 2, "d": 5, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.7428307123034228, "acc_ref": 0.7428307123034228, "agree": 1.0}
+{"ds": "phoneme", "K": 2, "d": 5, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7502312673450509, "acc_ref": 0.7502312673450509, "agree": 1.0}
+{"ds": "phoneme", "K": 2, "d": 5, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7622571692876966, "acc_ref": 0.7622571692876966, "agree": 1.0}
+{"ds": "phoneme", "K": 2, "d": 5, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.7657407407407407, "acc_ref": 0.7657407407407407, "agree": 1.0}
+{"ds": "phoneme", "K": 2, "d": 5, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7509259259259259, "acc_ref": 0.7509259259259259, "agree": 1.0}
+{"ds": "phoneme", "K": 2, "d": 5, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7342592592592593, "acc_ref": 0.7342592592592593, "agree": 1.0}
+{"ds": "first-order-theorem-proving", "K": 6, "d": 51, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.2957516339869281, "acc_ref": 0.2957516339869281, "agree": 1.0}
+{"ds": "first-order-theorem-proving", "K": 6, "d": 51, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.4395424836601307, "acc_ref": 0.4395424836601307, "agree": 1.0}
+{"ds": "first-order-theorem-proving", "K": 6, "d": 51, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.17238562091503268, "acc_ref": 0.17238562091503268, "agree": 1.0}
+{"ds": "first-order-theorem-proving", "K": 6, "d": 51, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.20669934640522875, "acc_ref": 0.20669934640522875, "agree": 1.0}
+{"ds": "first-order-theorem-proving", "K": 6, "d": 51, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.4338235294117647, "acc_ref": 0.4338235294117647, "agree": 1.0}
+{"ds": "first-order-theorem-proving", "K": 6, "d": 51, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.17320261437908496, "acc_ref": 0.17320261437908496, "agree": 1.0}
+{"ds": "first-order-theorem-proving", "K": 6, "d": 51, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.22303921568627452, "acc_ref": 0.22303921568627452, "agree": 1.0}
+{"ds": "first-order-theorem-proving", "K": 6, "d": 51, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.42483660130718953, "acc_ref": 0.42483660130718953, "agree": 1.0}
+{"ds": "first-order-theorem-proving", "K": 6, "d": 51, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.1642156862745098, "acc_ref": 0.1642156862745098, "agree": 1.0}
+{"ds": "first-order-theorem-proving", "K": 6, "d": 51, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.2559280457890433, "acc_ref": 0.2559280457890433, "agree": 1.0}
+{"ds": "first-order-theorem-proving", "K": 6, "d": 51, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.4333605887162715, "acc_ref": 0.4333605887162715, "agree": 1.0}
+{"ds": "first-order-theorem-proving", "K": 6, "d": 51, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.17252657399836469, "acc_ref": 0.17252657399836469, "agree": 1.0}
+{"ds": "first-order-theorem-proving", "K": 6, "d": 51, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.28618152085036797, "acc_ref": 0.28618152085036797, "agree": 1.0}
+{"ds": "first-order-theorem-proving", "K": 6, "d": 51, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.43008994276369583, "acc_ref": 0.43008994276369583, "agree": 1.0}
+{"ds": "first-order-theorem-proving", "K": 6, "d": 51, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.17988552739165986, "acc_ref": 0.17988552739165986, "agree": 1.0}
+{"ds": "cnae-9", "K": 9, "d": 856, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.875, "acc_ref": 0.875, "agree": 1.0}
+{"ds": "cnae-9", "K": 9, "d": 856, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8888888888888888, "acc_ref": 0.8888888888888888, "agree": 1.0}
+{"ds": "cnae-9", "K": 9, "d": 856, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9120370370370371, "acc_ref": 0.9120370370370371, "agree": 0.9953703703703703}
+{"ds": "cnae-9", "K": 9, "d": 856, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.9120370370370371, "acc_ref": 0.9120370370370371, "agree": 1.0}
+{"ds": "cnae-9", "K": 9, "d": 856, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9120370370370371, "acc_ref": 0.9120370370370371, "agree": 1.0}
+{"ds": "cnae-9", "K": 9, "d": 856, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9120370370370371, "acc_ref": 0.9120370370370371, "agree": 0.9953703703703703}
+{"ds": "cnae-9", "K": 9, "d": 856, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.9490740740740741, "acc_ref": 0.9490740740740741, "agree": 1.0}
+{"ds": "cnae-9", "K": 9, "d": 856, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9259259259259259, "acc_ref": 0.9259259259259259, "agree": 1.0}
+{"ds": "cnae-9", "K": 9, "d": 856, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8842592592592593, "acc_ref": 0.8935185185185185, "agree": 0.9861111111111112}
+{"ds": "cnae-9", "K": 9, "d": 856, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.9212962962962963, "acc_ref": 0.9212962962962963, "agree": 1.0}
+{"ds": "cnae-9", "K": 9, "d": 856, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9027777777777778, "acc_ref": 0.9027777777777778, "agree": 1.0}
+{"ds": "cnae-9", "K": 9, "d": 856, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9027777777777778, "acc_ref": 0.8981481481481481, "agree": 0.9907407407407407}
+{"ds": "cnae-9", "K": 9, "d": 856, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.9351851851851852, "acc_ref": 0.9351851851851852, "agree": 1.0}
+{"ds": "cnae-9", "K": 9, "d": 856, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8796296296296297, "acc_ref": 0.8796296296296297, "agree": 1.0}
+{"ds": "cnae-9", "K": 9, "d": 856, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8981481481481481, "acc_ref": 0.8981481481481481, "agree": 1.0}
+{"ds": "wdbc", "K": 2, "d": 30, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.9122807017543859, "acc_ref": 0.9122807017543859, "agree": 1.0}
+{"ds": "wdbc", "K": 2, "d": 30, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9298245614035088, "acc_ref": 0.9298245614035088, "agree": 1.0}
+{"ds": "wdbc", "K": 2, "d": 30, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9210526315789473, "acc_ref": 0.9210526315789473, "agree": 1.0}
+{"ds": "wdbc", "K": 2, "d": 30, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.9473684210526315, "acc_ref": 0.9473684210526315, "agree": 1.0}
+{"ds": "wdbc", "K": 2, "d": 30, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9473684210526315, "acc_ref": 0.9473684210526315, "agree": 1.0}
+{"ds": "wdbc", "K": 2, "d": 30, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9649122807017544, "acc_ref": 0.9649122807017544, "agree": 1.0}
+{"ds": "wdbc", "K": 2, "d": 30, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.8947368421052632, "acc_ref": 0.8947368421052632, "agree": 1.0}
+{"ds": "wdbc", "K": 2, "d": 30, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9035087719298246, "acc_ref": 0.9035087719298246, "agree": 1.0}
+{"ds": "wdbc", "K": 2, "d": 30, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9122807017543859, "acc_ref": 0.9122807017543859, "agree": 1.0}
+{"ds": "wdbc", "K": 2, "d": 30, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.9035087719298246, "acc_ref": 0.9035087719298246, "agree": 1.0}
+{"ds": "wdbc", "K": 2, "d": 30, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9210526315789473, "acc_ref": 0.9210526315789473, "agree": 1.0}
+{"ds": "wdbc", "K": 2, "d": 30, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9385964912280702, "acc_ref": 0.9385964912280702, "agree": 1.0}
+{"ds": "wdbc", "K": 2, "d": 30, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.911504424778761, "acc_ref": 0.911504424778761, "agree": 1.0}
+{"ds": "wdbc", "K": 2, "d": 30, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9203539823008849, "acc_ref": 0.9203539823008849, "agree": 1.0}
+{"ds": "wdbc", "K": 2, "d": 30, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9557522123893806, "acc_ref": 0.9557522123893806, "agree": 1.0}
+{"ds": "jm1", "K": 2, "d": 21, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.7854846118511714, "acc_ref": 0.7854846118511714, "agree": 1.0}
+{"ds": "jm1", "K": 2, "d": 21, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8107487367937529, "acc_ref": 0.8107487367937529, "agree": 1.0}
+{"ds": "jm1", "K": 2, "d": 21, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8125861276986679, "acc_ref": 0.8125861276986679, "agree": 1.0}
+{"ds": "jm1", "K": 2, "d": 21, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.7790537436839687, "acc_ref": 0.7790537436839687, "agree": 1.0}
+{"ds": "jm1", "K": 2, "d": 21, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8112080845199816, "acc_ref": 0.8112080845199816, "agree": 1.0}
+{"ds": "jm1", "K": 2, "d": 21, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8056959118052366, "acc_ref": 0.8056959118052366, "agree": 1.0}
+{"ds": "jm1", "K": 2, "d": 21, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.7694074414331649, "acc_ref": 0.7694074414331649, "agree": 1.0}
+{"ds": "jm1", "K": 2, "d": 21, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8139641708773542, "acc_ref": 0.8139641708773542, "agree": 1.0}
+{"ds": "jm1", "K": 2, "d": 21, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8061552595314653, "acc_ref": 0.8061552595314653, "agree": 1.0}
+{"ds": "jm1", "K": 2, "d": 21, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.7671107028020211, "acc_ref": 0.7671107028020211, "agree": 1.0}
+{"ds": "jm1", "K": 2, "d": 21, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8107487367937529, "acc_ref": 0.8107487367937529, "agree": 1.0}
+{"ds": "jm1", "K": 2, "d": 21, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8038585209003215, "acc_ref": 0.8038585209003215, "agree": 1.0}
+{"ds": "jm1", "K": 2, "d": 21, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.7652733118971061, "acc_ref": 0.7652733118971061, "agree": 1.0}
+{"ds": "jm1", "K": 2, "d": 21, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8043178686265503, "acc_ref": 0.8043178686265503, "agree": 1.0}
+{"ds": "jm1", "K": 2, "d": 21, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7955902618282039, "acc_ref": 0.7955902618282039, "agree": 1.0}
+{"ds": "wall-robot-navigation", "K": 4, "d": 24, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.5787545787545788, "acc_ref": 0.5787545787545788, "agree": 1.0}
+{"ds": "wall-robot-navigation", "K": 4, "d": 24, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.586996336996337, "acc_ref": 0.586996336996337, "agree": 1.0}
+{"ds": "wall-robot-navigation", "K": 4, "d": 24, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5091575091575091, "acc_ref": 0.5091575091575091, "agree": 1.0}
+{"ds": "wall-robot-navigation", "K": 4, "d": 24, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.6003666361136571, "acc_ref": 0.6003666361136571, "agree": 1.0}
+{"ds": "wall-robot-navigation", "K": 4, "d": 24, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.613198900091659, "acc_ref": 0.613198900091659, "agree": 1.0}
+{"ds": "wall-robot-navigation", "K": 4, "d": 24, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5297891842346472, "acc_ref": 0.5297891842346472, "agree": 1.0}
+{"ds": "wall-robot-navigation", "K": 4, "d": 24, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.5939505041246563, "acc_ref": 0.5939505041246563, "agree": 1.0}
+{"ds": "wall-robot-navigation", "K": 4, "d": 24, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6058661778185152, "acc_ref": 0.6058661778185152, "agree": 1.0}
+{"ds": "wall-robot-navigation", "K": 4, "d": 24, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5453712190650779, "acc_ref": 0.5453712190650779, "agree": 1.0}
+{"ds": "wall-robot-navigation", "K": 4, "d": 24, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.6232813932172319, "acc_ref": 0.6232813932172319, "agree": 1.0}
+{"ds": "wall-robot-navigation", "K": 4, "d": 24, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6251145737855178, "acc_ref": 0.6251145737855178, "agree": 1.0}
+{"ds": "wall-robot-navigation", "K": 4, "d": 24, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5453712190650779, "acc_ref": 0.5453712190650779, "agree": 1.0}
+{"ds": "wall-robot-navigation", "K": 4, "d": 24, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.6067827681026581, "acc_ref": 0.6067827681026581, "agree": 1.0}
+{"ds": "wall-robot-navigation", "K": 4, "d": 24, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.5884509624197983, "acc_ref": 0.5884509624197983, "agree": 1.0}
+{"ds": "wall-robot-navigation", "K": 4, "d": 24, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5096241979835013, "acc_ref": 0.5096241979835013, "agree": 1.0}
+{"ds": "mfeat-karhunen", "K": 10, "d": 64, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.8925, "acc_ref": 0.8925, "agree": 1.0}
+{"ds": "mfeat-karhunen", "K": 10, "d": 64, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.925, "acc_ref": 0.925, "agree": 1.0}
+{"ds": "mfeat-karhunen", "K": 10, "d": 64, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.955, "acc_ref": 0.955, "agree": 1.0}
+{"ds": "mfeat-karhunen", "K": 10, "d": 64, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.8875, "acc_ref": 0.8875, "agree": 1.0}
+{"ds": "mfeat-karhunen", "K": 10, "d": 64, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.915, "acc_ref": 0.915, "agree": 1.0}
+{"ds": "mfeat-karhunen", "K": 10, "d": 64, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9275, "acc_ref": 0.9275, "agree": 1.0}
+{"ds": "mfeat-karhunen", "K": 10, "d": 64, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.8825, "acc_ref": 0.8825, "agree": 1.0}
+{"ds": "mfeat-karhunen", "K": 10, "d": 64, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.93, "acc_ref": 0.93, "agree": 1.0}
+{"ds": "mfeat-karhunen", "K": 10, "d": 64, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9225, "acc_ref": 0.9225, "agree": 1.0}
+{"ds": "mfeat-karhunen", "K": 10, "d": 64, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.92, "acc_ref": 0.92, "agree": 1.0}
+{"ds": "mfeat-karhunen", "K": 10, "d": 64, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.95, "acc_ref": 0.95, "agree": 1.0}
+{"ds": "mfeat-karhunen", "K": 10, "d": 64, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.94, "acc_ref": 0.94, "agree": 1.0}
+{"ds": "mfeat-karhunen", "K": 10, "d": 64, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.8975, "acc_ref": 0.8975, "agree": 1.0}
+{"ds": "mfeat-karhunen", "K": 10, "d": 64, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.925, "acc_ref": 0.925, "agree": 1.0}
+{"ds": "mfeat-karhunen", "K": 10, "d": 64, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.935, "acc_ref": 0.935, "agree": 1.0}
+{"ds": "mfeat-morphological", "K": 10, "d": 6, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.505, "acc_ref": 0.505, "agree": 1.0}
+{"ds": "mfeat-morphological", "K": 10, "d": 6, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7325, "acc_ref": 0.7575, "agree": 0.89}
+{"ds": "mfeat-morphological", "K": 10, "d": 6, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7, "acc_ref": 0.7, "agree": 1.0}
+{"ds": "mfeat-morphological", "K": 10, "d": 6, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.4475, "acc_ref": 0.4475, "agree": 1.0}
+{"ds": "mfeat-morphological", "K": 10, "d": 6, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7175, "acc_ref": 0.7075, "agree": 0.9225}
+{"ds": "mfeat-morphological", "K": 10, "d": 6, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.66, "acc_ref": 0.66, "agree": 1.0}
+{"ds": "mfeat-morphological", "K": 10, "d": 6, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.52, "acc_ref": 0.52, "agree": 1.0}
+{"ds": "mfeat-morphological", "K": 10, "d": 6, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7325, "acc_ref": 0.7375, "agree": 0.9525}
+{"ds": "mfeat-morphological", "K": 10, "d": 6, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6675, "acc_ref": 0.6675, "agree": 1.0}
+{"ds": "mfeat-morphological", "K": 10, "d": 6, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.475, "acc_ref": 0.475, "agree": 1.0}
+{"ds": "mfeat-morphological", "K": 10, "d": 6, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.765, "acc_ref": 0.7675, "agree": 0.9875}
+{"ds": "mfeat-morphological", "K": 10, "d": 6, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7175, "acc_ref": 0.7175, "agree": 1.0}
+{"ds": "mfeat-morphological", "K": 10, "d": 6, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.4475, "acc_ref": 0.4475, "agree": 1.0}
+{"ds": "mfeat-morphological", "K": 10, "d": 6, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.76, "acc_ref": 0.75, "agree": 0.89}
+{"ds": "mfeat-morphological", "K": 10, "d": 6, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7325, "acc_ref": 0.7325, "agree": 1.0}
+{"ds": "semeion", "K": 10, "d": 256, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.8369905956112853, "acc_ref": 0.8369905956112853, "agree": 1.0}
+{"ds": "semeion", "K": 10, "d": 256, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8652037617554859, "acc_ref": 0.8652037617554859, "agree": 1.0}
+{"ds": "semeion", "K": 10, "d": 256, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.780564263322884, "acc_ref": 0.780564263322884, "agree": 1.0}
+{"ds": "semeion", "K": 10, "d": 256, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.8620689655172413, "acc_ref": 0.8620689655172413, "agree": 1.0}
+{"ds": "semeion", "K": 10, "d": 256, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8746081504702194, "acc_ref": 0.8746081504702194, "agree": 1.0}
+{"ds": "semeion", "K": 10, "d": 256, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7931034482758621, "acc_ref": 0.7931034482758621, "agree": 1.0}
+{"ds": "semeion", "K": 10, "d": 256, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.8369905956112853, "acc_ref": 0.8369905956112853, "agree": 1.0}
+{"ds": "semeion", "K": 10, "d": 256, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8683385579937304, "acc_ref": 0.8683385579937304, "agree": 1.0}
+{"ds": "semeion", "K": 10, "d": 256, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.768025078369906, "acc_ref": 0.768025078369906, "agree": 1.0}
+{"ds": "semeion", "K": 10, "d": 256, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.8144654088050315, "acc_ref": 0.8144654088050315, "agree": 1.0}
+{"ds": "semeion", "K": 10, "d": 256, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8836477987421384, "acc_ref": 0.8836477987421384, "agree": 1.0}
+{"ds": "semeion", "K": 10, "d": 256, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.779874213836478, "acc_ref": 0.779874213836478, "agree": 1.0}
+{"ds": "semeion", "K": 10, "d": 256, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.8647798742138365, "acc_ref": 0.8647798742138365, "agree": 1.0}
+{"ds": "semeion", "K": 10, "d": 256, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.889937106918239, "acc_ref": 0.889937106918239, "agree": 1.0}
+{"ds": "semeion", "K": 10, "d": 256, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8018867924528302, "acc_ref": 0.8018867924528302, "agree": 1.0}
+{"ds": "madelon", "K": 2, "d": 500, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.5865384615384616, "acc_ref": 0.5865384615384616, "agree": 1.0}
+{"ds": "madelon", "K": 2, "d": 500, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.5865384615384616, "acc_ref": 0.5865384615384616, "agree": 1.0}
+{"ds": "madelon", "K": 2, "d": 500, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5884615384615385, "acc_ref": 0.5826923076923077, "agree": 0.975}
+{"ds": "madelon", "K": 2, "d": 500, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.6096153846153847, "acc_ref": 0.6096153846153847, "agree": 1.0}
+{"ds": "madelon", "K": 2, "d": 500, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6115384615384616, "acc_ref": 0.6096153846153847, "agree": 0.9980769230769231}
+{"ds": "madelon", "K": 2, "d": 500, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6115384615384616, "acc_ref": 0.6057692307692307, "agree": 0.9634615384615385}
+{"ds": "madelon", "K": 2, "d": 500, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.6134615384615385, "acc_ref": 0.6134615384615385, "agree": 1.0}
+{"ds": "madelon", "K": 2, "d": 500, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6134615384615385, "acc_ref": 0.6134615384615385, "agree": 1.0}
+{"ds": "madelon", "K": 2, "d": 500, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6076923076923076, "acc_ref": 0.6115384615384616, "agree": 0.9653846153846154}
+{"ds": "madelon", "K": 2, "d": 500, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.6038461538461538, "acc_ref": 0.6038461538461538, "agree": 1.0}
+{"ds": "madelon", "K": 2, "d": 500, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6038461538461538, "acc_ref": 0.6038461538461538, "agree": 1.0}
+{"ds": "madelon", "K": 2, "d": 500, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6096153846153847, "acc_ref": 0.6096153846153847, "agree": 0.9730769230769231}
+{"ds": "madelon", "K": 2, "d": 500, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.5576923076923077, "acc_ref": 0.5576923076923077, "agree": 1.0}
+{"ds": "madelon", "K": 2, "d": 500, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.5576923076923077, "acc_ref": 0.5576923076923077, "agree": 1.0}
+{"ds": "madelon", "K": 2, "d": 500, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.551923076923077, "acc_ref": 0.5557692307692308, "agree": 0.9846153846153847}
+{"ds": "eucalyptus", "K": 5, "d": 91, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.4189189189189189, "acc_ref": 0.4189189189189189, "agree": 1.0}
+{"ds": "eucalyptus", "K": 5, "d": 91, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.4864864864864865, "acc_ref": 0.4864864864864865, "agree": 1.0}
+{"ds": "eucalyptus", "K": 5, "d": 91, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.41216216216216217, "acc_ref": 0.41216216216216217, "agree": 0.8108108108108109}
+{"ds": "eucalyptus", "K": 5, "d": 91, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.41496598639455784, "acc_ref": 0.41496598639455784, "agree": 1.0}
+{"ds": "eucalyptus", "K": 5, "d": 91, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.46258503401360546, "acc_ref": 0.46258503401360546, "agree": 1.0}
+{"ds": "eucalyptus", "K": 5, "d": 91, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.3945578231292517, "acc_ref": 0.4217687074829932, "agree": 0.6530612244897959}
+{"ds": "eucalyptus", "K": 5, "d": 91, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.46938775510204084, "acc_ref": 0.46938775510204084, "agree": 1.0}
+{"ds": "eucalyptus", "K": 5, "d": 91, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.4897959183673469, "acc_ref": 0.4897959183673469, "agree": 1.0}
+{"ds": "eucalyptus", "K": 5, "d": 91, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.46938775510204084, "acc_ref": 0.47619047619047616, "agree": 0.6122448979591837}
+{"ds": "eucalyptus", "K": 5, "d": 91, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.4421768707482993, "acc_ref": 0.4421768707482993, "agree": 1.0}
+{"ds": "eucalyptus", "K": 5, "d": 91, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.43537414965986393, "acc_ref": 0.43537414965986393, "agree": 1.0}
+{"ds": "eucalyptus", "K": 5, "d": 91, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.4489795918367347, "acc_ref": 0.5102040816326531, "agree": 0.6462585034013606}
+{"ds": "eucalyptus", "K": 5, "d": 91, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.46938775510204084, "acc_ref": 0.46938775510204084, "agree": 1.0}
+{"ds": "eucalyptus", "K": 5, "d": 91, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.5102040816326531, "acc_ref": 0.5102040816326531, "agree": 1.0}
+{"ds": "eucalyptus", "K": 5, "d": 91, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.46938775510204084, "acc_ref": 0.46258503401360546, "agree": 0.7891156462585034}
+{"ds": "dresses-sales", "K": 2, "d": 165, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.62, "acc_ref": 0.62, "agree": 1.0}
+{"ds": "dresses-sales", "K": 2, "d": 165, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.64, "acc_ref": 0.64, "agree": 1.0}
+{"ds": "dresses-sales", "K": 2, "d": 165, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.45, "acc_ref": 0.45, "agree": 1.0}
+{"ds": "dresses-sales", "K": 2, "d": 165, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.58, "acc_ref": 0.58, "agree": 1.0}
+{"ds": "dresses-sales", "K": 2, "d": 165, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.59, "acc_ref": 0.59, "agree": 1.0}
+{"ds": "dresses-sales", "K": 2, "d": 165, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.41, "acc_ref": 0.41, "agree": 1.0}
+{"ds": "dresses-sales", "K": 2, "d": 165, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.57, "acc_ref": 0.57, "agree": 1.0}
+{"ds": "dresses-sales", "K": 2, "d": 165, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.59, "acc_ref": 0.59, "agree": 1.0}
+{"ds": "dresses-sales", "K": 2, "d": 165, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.43, "acc_ref": 0.43, "agree": 1.0}
+{"ds": "dresses-sales", "K": 2, "d": 165, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.69, "acc_ref": 0.69, "agree": 1.0}
+{"ds": "dresses-sales", "K": 2, "d": 165, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.67, "acc_ref": 0.67, "agree": 1.0}
+{"ds": "dresses-sales", "K": 2, "d": 165, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5, "acc_ref": 0.5, "agree": 1.0}
+{"ds": "dresses-sales", "K": 2, "d": 165, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.65, "acc_ref": 0.65, "agree": 1.0}
+{"ds": "dresses-sales", "K": 2, "d": 165, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.64, "acc_ref": 0.64, "agree": 1.0}
+{"ds": "dresses-sales", "K": 2, "d": 165, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.42, "acc_ref": 0.42, "agree": 1.0}
+{"ds": "cmc", "K": 3, "d": 24, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.4745762711864407, "acc_ref": 0.4745762711864407, "agree": 1.0}
+{"ds": "cmc", "K": 3, "d": 24, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.46440677966101696, "acc_ref": 0.46440677966101696, "agree": 1.0}
+{"ds": "cmc", "K": 3, "d": 24, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.43728813559322033, "acc_ref": 0.43728813559322033, "agree": 1.0}
+{"ds": "cmc", "K": 3, "d": 24, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.43728813559322033, "acc_ref": 0.43728813559322033, "agree": 1.0}
+{"ds": "cmc", "K": 3, "d": 24, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.4610169491525424, "acc_ref": 0.4610169491525424, "agree": 1.0}
+{"ds": "cmc", "K": 3, "d": 24, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.4440677966101695, "acc_ref": 0.4440677966101695, "agree": 1.0}
+{"ds": "cmc", "K": 3, "d": 24, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.4406779661016949, "acc_ref": 0.4406779661016949, "agree": 1.0}
+{"ds": "cmc", "K": 3, "d": 24, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.44745762711864406, "acc_ref": 0.44745762711864406, "agree": 1.0}
+{"ds": "cmc", "K": 3, "d": 24, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.42033898305084744, "acc_ref": 0.42033898305084744, "agree": 1.0}
+{"ds": "cmc", "K": 3, "d": 24, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.4523809523809524, "acc_ref": 0.4523809523809524, "agree": 1.0}
+{"ds": "cmc", "K": 3, "d": 24, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.45918367346938777, "acc_ref": 0.45918367346938777, "agree": 1.0}
+{"ds": "cmc", "K": 3, "d": 24, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.43537414965986393, "acc_ref": 0.43537414965986393, "agree": 1.0}
+{"ds": "cmc", "K": 3, "d": 24, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.45918367346938777, "acc_ref": 0.45918367346938777, "agree": 1.0}
+{"ds": "cmc", "K": 3, "d": 24, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.46598639455782315, "acc_ref": 0.46598639455782315, "agree": 1.0}
+{"ds": "cmc", "K": 3, "d": 24, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.445578231292517, "acc_ref": 0.445578231292517, "agree": 1.0}
+{"ds": "mfeat-zernike", "K": 10, "d": 47, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.5875, "acc_ref": 0.5875, "agree": 1.0}
+{"ds": "mfeat-zernike", "K": 10, "d": 47, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7475, "acc_ref": 0.7475, "agree": 1.0}
+{"ds": "mfeat-zernike", "K": 10, "d": 47, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7375, "acc_ref": 0.7375, "agree": 1.0}
+{"ds": "mfeat-zernike", "K": 10, "d": 47, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.5975, "acc_ref": 0.5975, "agree": 1.0}
+{"ds": "mfeat-zernike", "K": 10, "d": 47, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.725, "acc_ref": 0.725, "agree": 1.0}
+{"ds": "mfeat-zernike", "K": 10, "d": 47, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7, "acc_ref": 0.7, "agree": 1.0}
+{"ds": "mfeat-zernike", "K": 10, "d": 47, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.6375, "acc_ref": 0.6375, "agree": 1.0}
+{"ds": "mfeat-zernike", "K": 10, "d": 47, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7375, "acc_ref": 0.7375, "agree": 1.0}
+{"ds": "mfeat-zernike", "K": 10, "d": 47, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.74, "acc_ref": 0.74, "agree": 1.0}
+{"ds": "mfeat-zernike", "K": 10, "d": 47, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.6275, "acc_ref": 0.6275, "agree": 1.0}
+{"ds": "mfeat-zernike", "K": 10, "d": 47, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7725, "acc_ref": 0.77, "agree": 0.9975}
+{"ds": "mfeat-zernike", "K": 10, "d": 47, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7625, "acc_ref": 0.7625, "agree": 1.0}
+{"ds": "mfeat-zernike", "K": 10, "d": 47, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.64, "acc_ref": 0.64, "agree": 1.0}
+{"ds": "mfeat-zernike", "K": 10, "d": 47, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7425, "acc_ref": 0.7425, "agree": 1.0}
+{"ds": "mfeat-zernike", "K": 10, "d": 47, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7075, "acc_ref": 0.7075, "agree": 1.0}
+{"ds": "credit-approval", "K": 2, "d": 51, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.7681159420289855, "acc_ref": 0.7681159420289855, "agree": 1.0}
+{"ds": "credit-approval", "K": 2, "d": 51, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7681159420289855, "acc_ref": 0.7681159420289855, "agree": 1.0}
+{"ds": "credit-approval", "K": 2, "d": 51, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7681159420289855, "acc_ref": 0.7681159420289855, "agree": 1.0}
+{"ds": "credit-approval", "K": 2, "d": 51, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.8623188405797102, "acc_ref": 0.8623188405797102, "agree": 1.0}
+{"ds": "credit-approval", "K": 2, "d": 51, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8623188405797102, "acc_ref": 0.8623188405797102, "agree": 1.0}
+{"ds": "credit-approval", "K": 2, "d": 51, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8405797101449275, "acc_ref": 0.8405797101449275, "agree": 1.0}
+{"ds": "credit-approval", "K": 2, "d": 51, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.8623188405797102, "acc_ref": 0.8623188405797102, "agree": 1.0}
+{"ds": "credit-approval", "K": 2, "d": 51, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8623188405797102, "acc_ref": 0.8623188405797102, "agree": 1.0}
+{"ds": "credit-approval", "K": 2, "d": 51, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8768115942028986, "acc_ref": 0.8768115942028986, "agree": 1.0}
+{"ds": "credit-approval", "K": 2, "d": 51, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.8768115942028986, "acc_ref": 0.8768115942028986, "agree": 1.0}
+{"ds": "credit-approval", "K": 2, "d": 51, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8768115942028986, "acc_ref": 0.8768115942028986, "agree": 1.0}
+{"ds": "credit-approval", "K": 2, "d": 51, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8623188405797102, "acc_ref": 0.8623188405797102, "agree": 1.0}
+{"ds": "credit-approval", "K": 2, "d": 51, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.8695652173913043, "acc_ref": 0.8695652173913043, "agree": 1.0}
+{"ds": "credit-approval", "K": 2, "d": 51, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8695652173913043, "acc_ref": 0.8695652173913043, "agree": 1.0}
+{"ds": "credit-approval", "K": 2, "d": 51, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.855072463768116, "acc_ref": 0.855072463768116, "agree": 1.0}
+{"ds": "satimage", "K": 6, "d": 36, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.7426127527216174, "acc_ref": 0.7426127527216174, "agree": 1.0}
+{"ds": "satimage", "K": 6, "d": 36, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8304821150855366, "acc_ref": 0.8328149300155521, "agree": 0.9898911353032659}
+{"ds": "satimage", "K": 6, "d": 36, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8009331259720062, "acc_ref": 0.8009331259720062, "agree": 1.0}
+{"ds": "satimage", "K": 6, "d": 36, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.7286158631415242, "acc_ref": 0.7286158631415242, "agree": 1.0}
+{"ds": "satimage", "K": 6, "d": 36, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8242612752721618, "acc_ref": 0.8219284603421462, "agree": 0.9930015552099534}
+{"ds": "satimage", "K": 6, "d": 36, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7916018662519441, "acc_ref": 0.7916018662519441, "agree": 1.0}
+{"ds": "satimage", "K": 6, "d": 36, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.7286158631415242, "acc_ref": 0.7286158631415242, "agree": 1.0}
+{"ds": "satimage", "K": 6, "d": 36, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8374805598755832, "acc_ref": 0.8351477449455676, "agree": 0.9860031104199067}
+{"ds": "satimage", "K": 6, "d": 36, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7869362363919129, "acc_ref": 0.7869362363919129, "agree": 1.0}
+{"ds": "satimage", "K": 6, "d": 36, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.7573872472783826, "acc_ref": 0.7573872472783826, "agree": 1.0}
+{"ds": "satimage", "K": 6, "d": 36, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8452566096423018, "acc_ref": 0.8421461897356143, "agree": 0.9937791601866252}
+{"ds": "satimage", "K": 6, "d": 36, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8040435458786936, "acc_ref": 0.8040435458786936, "agree": 1.0}
+{"ds": "satimage", "K": 6, "d": 36, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.7356143079315708, "acc_ref": 0.7356143079315708, "agree": 1.0}
+{"ds": "satimage", "K": 6, "d": 36, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8320373250388803, "acc_ref": 0.8328149300155521, "agree": 0.9984447900466563}
+{"ds": "satimage", "K": 6, "d": 36, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7939346811819595, "acc_ref": 0.7939346811819595, "agree": 1.0}
+{"ds": "vowel", "K": 11, "d": 27, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.0707070707070707, "acc_ref": 0.0707070707070707, "agree": 1.0}
+{"ds": "vowel", "K": 11, "d": 27, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.29292929292929293, "acc_ref": 0.29292929292929293, "agree": 1.0}
+{"ds": "vowel", "K": 11, "d": 27, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.3282828282828283, "acc_ref": 0.3282828282828283, "agree": 1.0}
+{"ds": "vowel", "K": 11, "d": 27, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.045454545454545456, "acc_ref": 0.045454545454545456, "agree": 1.0}
+{"ds": "vowel", "K": 11, "d": 27, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.3939393939393939, "acc_ref": 0.3939393939393939, "agree": 1.0}
+{"ds": "vowel", "K": 11, "d": 27, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.35353535353535354, "acc_ref": 0.35353535353535354, "agree": 1.0}
+{"ds": "vowel", "K": 11, "d": 27, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.045454545454545456, "acc_ref": 0.045454545454545456, "agree": 1.0}
+{"ds": "vowel", "K": 11, "d": 27, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.4090909090909091, "acc_ref": 0.4090909090909091, "agree": 1.0}
+{"ds": "vowel", "K": 11, "d": 27, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.3686868686868687, "acc_ref": 0.3686868686868687, "agree": 1.0}
+{"ds": "vowel", "K": 11, "d": 27, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.04040404040404041, "acc_ref": 0.04040404040404041, "agree": 1.0}
+{"ds": "vowel", "K": 11, "d": 27, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.398989898989899, "acc_ref": 0.398989898989899, "agree": 1.0}
+{"ds": "vowel", "K": 11, "d": 27, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.40404040404040403, "acc_ref": 0.40404040404040403, "agree": 1.0}
+{"ds": "vowel", "K": 11, "d": 27, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.045454545454545456, "acc_ref": 0.045454545454545456, "agree": 1.0}
+{"ds": "vowel", "K": 11, "d": 27, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.3939393939393939, "acc_ref": 0.3939393939393939, "agree": 1.0}
+{"ds": "vowel", "K": 11, "d": 27, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.36363636363636365, "acc_ref": 0.36363636363636365, "agree": 1.0}
+{"ds": "kr-vs-kp", "K": 2, "d": 73, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.871875, "acc_ref": 0.871875, "agree": 1.0}
+{"ds": "kr-vs-kp", "K": 2, "d": 73, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8734375, "acc_ref": 0.8734375, "agree": 1.0}
+{"ds": "kr-vs-kp", "K": 2, "d": 73, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.640625, "acc_ref": 0.6390625, "agree": 0.9984375}
+{"ds": "kr-vs-kp", "K": 2, "d": 73, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.8591549295774648, "acc_ref": 0.8591549295774648, "agree": 1.0}
+{"ds": "kr-vs-kp", "K": 2, "d": 73, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8591549295774648, "acc_ref": 0.8591549295774648, "agree": 1.0}
+{"ds": "kr-vs-kp", "K": 2, "d": 73, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.593114241001565, "acc_ref": 0.593114241001565, "agree": 1.0}
+{"ds": "kr-vs-kp", "K": 2, "d": 73, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.8497652582159625, "acc_ref": 0.8497652582159625, "agree": 1.0}
+{"ds": "kr-vs-kp", "K": 2, "d": 73, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8497652582159625, "acc_ref": 0.8497652582159625, "agree": 1.0}
+{"ds": "kr-vs-kp", "K": 2, "d": 73, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6197183098591549, "acc_ref": 0.6197183098591549, "agree": 1.0}
+{"ds": "kr-vs-kp", "K": 2, "d": 73, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.8544600938967136, "acc_ref": 0.8544600938967136, "agree": 1.0}
+{"ds": "kr-vs-kp", "K": 2, "d": 73, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8544600938967136, "acc_ref": 0.8544600938967136, "agree": 1.0}
+{"ds": "kr-vs-kp", "K": 2, "d": 73, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6275430359937402, "acc_ref": 0.6275430359937402, "agree": 1.0}
+{"ds": "kr-vs-kp", "K": 2, "d": 73, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.865414710485133, "acc_ref": 0.865414710485133, "agree": 1.0}
+{"ds": "kr-vs-kp", "K": 2, "d": 73, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.865414710485133, "acc_ref": 0.865414710485133, "agree": 1.0}
+{"ds": "kr-vs-kp", "K": 2, "d": 73, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6306729264475743, "acc_ref": 0.6306729264475743, "agree": 1.0}
+{"ds": "credit-g", "K": 2, "d": 61, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.715, "acc_ref": 0.715, "agree": 1.0}
+{"ds": "credit-g", "K": 2, "d": 61, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.715, "acc_ref": 0.715, "agree": 1.0}
+{"ds": "credit-g", "K": 2, "d": 61, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.695, "acc_ref": 0.695, "agree": 1.0}
+{"ds": "credit-g", "K": 2, "d": 61, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.71, "acc_ref": 0.71, "agree": 1.0}
+{"ds": "credit-g", "K": 2, "d": 61, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.75, "acc_ref": 0.75, "agree": 1.0}
+{"ds": "credit-g", "K": 2, "d": 61, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.705, "acc_ref": 0.705, "agree": 1.0}
+{"ds": "credit-g", "K": 2, "d": 61, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.765, "acc_ref": 0.765, "agree": 1.0}
+{"ds": "credit-g", "K": 2, "d": 61, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.79, "acc_ref": 0.79, "agree": 1.0}
+{"ds": "credit-g", "K": 2, "d": 61, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.775, "acc_ref": 0.775, "agree": 1.0}
+{"ds": "credit-g", "K": 2, "d": 61, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.705, "acc_ref": 0.705, "agree": 1.0}
+{"ds": "credit-g", "K": 2, "d": 61, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.72, "acc_ref": 0.72, "agree": 1.0}
+{"ds": "credit-g", "K": 2, "d": 61, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.67, "acc_ref": 0.67, "agree": 1.0}
+{"ds": "credit-g", "K": 2, "d": 61, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.72, "acc_ref": 0.72, "agree": 1.0}
+{"ds": "credit-g", "K": 2, "d": 61, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.755, "acc_ref": 0.755, "agree": 1.0}
+{"ds": "credit-g", "K": 2, "d": 61, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.76, "acc_ref": 0.76, "agree": 1.0}
+{"ds": "diabetes", "K": 2, "d": 8, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.6883116883116883, "acc_ref": 0.6883116883116883, "agree": 1.0}
+{"ds": "diabetes", "K": 2, "d": 8, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6753246753246753, "acc_ref": 0.6753246753246753, "agree": 1.0}
+{"ds": "diabetes", "K": 2, "d": 8, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7532467532467533, "acc_ref": 0.7532467532467533, "agree": 1.0}
+{"ds": "diabetes", "K": 2, "d": 8, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.6688311688311688, "acc_ref": 0.6688311688311688, "agree": 1.0}
+{"ds": "diabetes", "K": 2, "d": 8, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6948051948051948, "acc_ref": 0.6948051948051948, "agree": 1.0}
+{"ds": "diabetes", "K": 2, "d": 8, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7272727272727273, "acc_ref": 0.7272727272727273, "agree": 1.0}
+{"ds": "diabetes", "K": 2, "d": 8, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.7012987012987013, "acc_ref": 0.7012987012987013, "agree": 1.0}
+{"ds": "diabetes", "K": 2, "d": 8, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7077922077922078, "acc_ref": 0.7077922077922078, "agree": 1.0}
+{"ds": "diabetes", "K": 2, "d": 8, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7467532467532467, "acc_ref": 0.7467532467532467, "agree": 1.0}
+{"ds": "diabetes", "K": 2, "d": 8, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.6666666666666666, "acc_ref": 0.6666666666666666, "agree": 1.0}
+{"ds": "diabetes", "K": 2, "d": 8, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7254901960784313, "acc_ref": 0.7254901960784313, "agree": 1.0}
+{"ds": "diabetes", "K": 2, "d": 8, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7777777777777778, "acc_ref": 0.7777777777777778, "agree": 1.0}
+{"ds": "diabetes", "K": 2, "d": 8, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.7254901960784313, "acc_ref": 0.7254901960784313, "agree": 1.0}
+{"ds": "diabetes", "K": 2, "d": 8, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7058823529411765, "acc_ref": 0.7058823529411765, "agree": 1.0}
+{"ds": "diabetes", "K": 2, "d": 8, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7647058823529411, "acc_ref": 0.7647058823529411, "agree": 1.0}
+{"ds": "optdigits", "K": 10, "d": 62, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.8976868327402135, "acc_ref": 0.8976868327402135, "agree": 1.0}
+{"ds": "optdigits", "K": 10, "d": 62, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9350533807829181, "acc_ref": 0.9350533807829181, "agree": 1.0}
+{"ds": "optdigits", "K": 10, "d": 62, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7686832740213523, "acc_ref": 0.7686832740213523, "agree": 1.0}
+{"ds": "optdigits", "K": 10, "d": 62, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.8594306049822064, "acc_ref": 0.8594306049822064, "agree": 1.0}
+{"ds": "optdigits", "K": 10, "d": 62, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9314946619217082, "acc_ref": 0.9314946619217082, "agree": 1.0}
+{"ds": "optdigits", "K": 10, "d": 62, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.802491103202847, "acc_ref": 0.802491103202847, "agree": 1.0}
+{"ds": "optdigits", "K": 10, "d": 62, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.8807829181494662, "acc_ref": 0.8807829181494662, "agree": 1.0}
+{"ds": "optdigits", "K": 10, "d": 62, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9163701067615658, "acc_ref": 0.9163701067615658, "agree": 1.0}
+{"ds": "optdigits", "K": 10, "d": 62, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7384341637010676, "acc_ref": 0.7384341637010676, "agree": 1.0}
+{"ds": "optdigits", "K": 10, "d": 62, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.8647686832740213, "acc_ref": 0.8647686832740213, "agree": 1.0}
+{"ds": "optdigits", "K": 10, "d": 62, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9225978647686833, "acc_ref": 0.9225978647686833, "agree": 1.0}
+{"ds": "optdigits", "K": 10, "d": 62, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8149466192170819, "acc_ref": 0.8149466192170819, "agree": 1.0}
+{"ds": "optdigits", "K": 10, "d": 62, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.8807829181494662, "acc_ref": 0.8807829181494662, "agree": 1.0}
+{"ds": "optdigits", "K": 10, "d": 62, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9368327402135231, "acc_ref": 0.9368327402135231, "agree": 1.0}
+{"ds": "optdigits", "K": 10, "d": 62, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7962633451957295, "acc_ref": 0.7962633451957295, "agree": 1.0}
+{"ds": "sick", "K": 2, "d": 52, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.7880794701986755, "acc_ref": 0.7880794701986755, "agree": 1.0}
+{"ds": "sick", "K": 2, "d": 52, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9390728476821192, "acc_ref": 0.9390728476821192, "agree": 1.0}
+{"ds": "sick", "K": 2, "d": 52, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.41456953642384103, "acc_ref": 0.41456953642384103, "agree": 1.0}
+{"ds": "sick", "K": 2, "d": 52, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.7960264900662252, "acc_ref": 0.7960264900662252, "agree": 1.0}
+{"ds": "sick", "K": 2, "d": 52, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.937748344370861, "acc_ref": 0.937748344370861, "agree": 1.0}
+{"ds": "sick", "K": 2, "d": 52, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.38145695364238413, "acc_ref": 0.38145695364238413, "agree": 1.0}
+{"ds": "sick", "K": 2, "d": 52, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.7970822281167109, "acc_ref": 0.7970822281167109, "agree": 1.0}
+{"ds": "sick", "K": 2, "d": 52, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9389920424403183, "acc_ref": 0.9389920424403183, "agree": 1.0}
+{"ds": "sick", "K": 2, "d": 52, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.376657824933687, "acc_ref": 0.376657824933687, "agree": 1.0}
+{"ds": "sick", "K": 2, "d": 52, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.7904509283819628, "acc_ref": 0.7904509283819628, "agree": 1.0}
+{"ds": "sick", "K": 2, "d": 52, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9389920424403183, "acc_ref": 0.9389920424403183, "agree": 1.0}
+{"ds": "sick", "K": 2, "d": 52, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.3541114058355438, "acc_ref": 0.3541114058355438, "agree": 1.0}
+{"ds": "sick", "K": 2, "d": 52, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.7705570291777188, "acc_ref": 0.7705570291777188, "agree": 1.0}
+{"ds": "sick", "K": 2, "d": 52, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9389920424403183, "acc_ref": 0.9389920424403183, "agree": 1.0}
+{"ds": "sick", "K": 2, "d": 52, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.3753315649867374, "acc_ref": 0.3753315649867374, "agree": 1.0}
+{"ds": "bank-marketing", "K": 2, "d": 51, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.8052, "acc_ref": 0.8052, "agree": 1.0}
+{"ds": "bank-marketing", "K": 2, "d": 51, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8894, "acc_ref": 0.8894, "agree": 1.0}
+{"ds": "bank-marketing", "K": 2, "d": 51, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.854, "acc_ref": 0.854, "agree": 1.0}
+{"ds": "bank-marketing", "K": 2, "d": 51, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.8066, "acc_ref": 0.8066, "agree": 1.0}
+{"ds": "bank-marketing", "K": 2, "d": 51, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.891, "acc_ref": 0.891, "agree": 1.0}
+{"ds": "bank-marketing", "K": 2, "d": 51, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8486, "acc_ref": 0.8486, "agree": 1.0}
+{"ds": "bank-marketing", "K": 2, "d": 51, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.8184, "acc_ref": 0.8184, "agree": 1.0}
+{"ds": "bank-marketing", "K": 2, "d": 51, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8932, "acc_ref": 0.8932, "agree": 1.0}
+{"ds": "bank-marketing", "K": 2, "d": 51, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8564, "acc_ref": 0.8564, "agree": 1.0}
+{"ds": "bank-marketing", "K": 2, "d": 51, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.7978, "acc_ref": 0.7978, "agree": 1.0}
+{"ds": "bank-marketing", "K": 2, "d": 51, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8882, "acc_ref": 0.8882, "agree": 1.0}
+{"ds": "bank-marketing", "K": 2, "d": 51, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8544, "acc_ref": 0.8544, "agree": 1.0}
+{"ds": "bank-marketing", "K": 2, "d": 51, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.808, "acc_ref": 0.808, "agree": 1.0}
+{"ds": "bank-marketing", "K": 2, "d": 51, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8884, "acc_ref": 0.8884, "agree": 1.0}
+{"ds": "bank-marketing", "K": 2, "d": 51, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8494, "acc_ref": 0.8494, "agree": 1.0}
+{"ds": "texture", "K": 11, "d": 40, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.49636363636363634, "acc_ref": 0.49636363636363634, "agree": 1.0}
+{"ds": "texture", "K": 11, "d": 40, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9836363636363636, "acc_ref": 0.9818181818181818, "agree": 0.9981818181818182}
+{"ds": "texture", "K": 11, "d": 40, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7781818181818182, "acc_ref": 0.7781818181818182, "agree": 1.0}
+{"ds": "texture", "K": 11, "d": 40, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.48727272727272725, "acc_ref": 0.48727272727272725, "agree": 1.0}
+{"ds": "texture", "K": 11, "d": 40, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.980909090909091, "acc_ref": 0.9818181818181818, "agree": 0.9990909090909091}
+{"ds": "texture", "K": 11, "d": 40, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7563636363636363, "acc_ref": 0.7563636363636363, "agree": 1.0}
+{"ds": "texture", "K": 11, "d": 40, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.4727272727272727, "acc_ref": 0.4727272727272727, "agree": 1.0}
+{"ds": "texture", "K": 11, "d": 40, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9818181818181818, "acc_ref": 0.9827272727272728, "agree": 0.9990909090909091}
+{"ds": "texture", "K": 11, "d": 40, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7736363636363637, "acc_ref": 0.7736363636363637, "agree": 1.0}
+{"ds": "texture", "K": 11, "d": 40, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.4890909090909091, "acc_ref": 0.4890909090909091, "agree": 1.0}
+{"ds": "texture", "K": 11, "d": 40, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9845454545454545, "acc_ref": 0.9854545454545455, "agree": 0.9990909090909091}
+{"ds": "texture", "K": 11, "d": 40, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7818181818181819, "acc_ref": 0.7818181818181819, "agree": 1.0}
+{"ds": "texture", "K": 11, "d": 40, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.49363636363636365, "acc_ref": 0.49363636363636365, "agree": 1.0}
+{"ds": "texture", "K": 11, "d": 40, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9781818181818182, "acc_ref": 0.9790909090909091, "agree": 0.9990909090909091}
+{"ds": "texture", "K": 11, "d": 40, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7781818181818182, "acc_ref": 0.7781818181818182, "agree": 1.0}
+{"ds": "electricity", "K": 2, "d": 14, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.606, "acc_ref": 0.606, "agree": 1.0}
+{"ds": "electricity", "K": 2, "d": 14, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6104, "acc_ref": 0.6104, "agree": 1.0}
+{"ds": "electricity", "K": 2, "d": 14, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.725, "acc_ref": 0.725, "agree": 1.0}
+{"ds": "electricity", "K": 2, "d": 14, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.605, "acc_ref": 0.605, "agree": 1.0}
+{"ds": "electricity", "K": 2, "d": 14, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6168, "acc_ref": 0.6166, "agree": 0.9998}
+{"ds": "electricity", "K": 2, "d": 14, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7184, "acc_ref": 0.7184, "agree": 1.0}
+{"ds": "electricity", "K": 2, "d": 14, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.5866, "acc_ref": 0.5866, "agree": 1.0}
+{"ds": "electricity", "K": 2, "d": 14, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6054, "acc_ref": 0.6054, "agree": 1.0}
+{"ds": "electricity", "K": 2, "d": 14, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7236, "acc_ref": 0.7236, "agree": 1.0}
+{"ds": "electricity", "K": 2, "d": 14, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.6112, "acc_ref": 0.6112, "agree": 1.0}
+{"ds": "electricity", "K": 2, "d": 14, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6364, "acc_ref": 0.6362, "agree": 0.9998}
+{"ds": "electricity", "K": 2, "d": 14, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7394, "acc_ref": 0.7392, "agree": 0.9998}
+{"ds": "electricity", "K": 2, "d": 14, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.597, "acc_ref": 0.5972, "agree": 0.9998}
+{"ds": "electricity", "K": 2, "d": 14, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6256, "acc_ref": 0.6256, "agree": 1.0}
+{"ds": "electricity", "K": 2, "d": 14, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7356, "acc_ref": 0.7358, "agree": 0.9998}
+{"ds": "pendigits", "K": 10, "d": 16, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.7980900409276944, "acc_ref": 0.7980900409276944, "agree": 1.0}
+{"ds": "pendigits", "K": 10, "d": 16, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8535698044565712, "acc_ref": 0.8535698044565712, "agree": 1.0}
+{"ds": "pendigits", "K": 10, "d": 16, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8553888130968622, "acc_ref": 0.8553888130968622, "agree": 1.0}
+{"ds": "pendigits", "K": 10, "d": 16, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.7908140063665302, "acc_ref": 0.7908140063665302, "agree": 1.0}
+{"ds": "pendigits", "K": 10, "d": 16, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.849931787175989, "acc_ref": 0.849931787175989, "agree": 1.0}
+{"ds": "pendigits", "K": 10, "d": 16, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8535698044565712, "acc_ref": 0.8535698044565712, "agree": 1.0}
+{"ds": "pendigits", "K": 10, "d": 16, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.7966333030027297, "acc_ref": 0.7966333030027297, "agree": 1.0}
+{"ds": "pendigits", "K": 10, "d": 16, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8525932666060054, "acc_ref": 0.8525932666060054, "agree": 0.9995450409463148}
+{"ds": "pendigits", "K": 10, "d": 16, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8607825295723385, "acc_ref": 0.8607825295723385, "agree": 1.0}
+{"ds": "pendigits", "K": 10, "d": 16, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.7829845313921747, "acc_ref": 0.7829845313921747, "agree": 1.0}
+{"ds": "pendigits", "K": 10, "d": 16, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.848498635122839, "acc_ref": 0.848498635122839, "agree": 1.0}
+{"ds": "pendigits", "K": 10, "d": 16, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8521383075523203, "acc_ref": 0.8521383075523203, "agree": 1.0}
+{"ds": "pendigits", "K": 10, "d": 16, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.7993630573248408, "acc_ref": 0.7993630573248408, "agree": 1.0}
+{"ds": "pendigits", "K": 10, "d": 16, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8516833484986351, "acc_ref": 0.8516833484986351, "agree": 1.0}
+{"ds": "pendigits", "K": 10, "d": 16, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8612374886260237, "acc_ref": 0.8612374886260237, "agree": 1.0}
+{"ds": "MiceProtein", "K": 8, "d": 77, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.6620370370370371, "acc_ref": 0.6620370370370371, "agree": 1.0}
+{"ds": "MiceProtein", "K": 8, "d": 77, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8009259259259259, "acc_ref": 0.8009259259259259, "agree": 1.0}
+{"ds": "MiceProtein", "K": 8, "d": 77, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.75, "acc_ref": 0.75, "agree": 1.0}
+{"ds": "MiceProtein", "K": 8, "d": 77, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.7175925925925926, "acc_ref": 0.7175925925925926, "agree": 1.0}
+{"ds": "MiceProtein", "K": 8, "d": 77, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8240740740740741, "acc_ref": 0.8240740740740741, "agree": 1.0}
+{"ds": "MiceProtein", "K": 8, "d": 77, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8611111111111112, "acc_ref": 0.8611111111111112, "agree": 1.0}
+{"ds": "MiceProtein", "K": 8, "d": 77, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.6574074074074074, "acc_ref": 0.6574074074074074, "agree": 1.0}
+{"ds": "MiceProtein", "K": 8, "d": 77, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7870370370370371, "acc_ref": 0.7870370370370371, "agree": 1.0}
+{"ds": "MiceProtein", "K": 8, "d": 77, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7824074074074074, "acc_ref": 0.7824074074074074, "agree": 1.0}
+{"ds": "MiceProtein", "K": 8, "d": 77, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.6018518518518519, "acc_ref": 0.6018518518518519, "agree": 1.0}
+{"ds": "MiceProtein", "K": 8, "d": 77, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7916666666666666, "acc_ref": 0.7916666666666666, "agree": 1.0}
+{"ds": "MiceProtein", "K": 8, "d": 77, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7592592592592593, "acc_ref": 0.7592592592592593, "agree": 1.0}
+{"ds": "MiceProtein", "K": 8, "d": 77, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.625, "acc_ref": 0.625, "agree": 1.0}
+{"ds": "MiceProtein", "K": 8, "d": 77, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8055555555555556, "acc_ref": 0.8055555555555556, "agree": 1.0}
+{"ds": "MiceProtein", "K": 8, "d": 77, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7870370370370371, "acc_ref": 0.7870370370370371, "agree": 1.0}
+{"ds": "churn", "K": 2, "d": 33, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.857, "acc_ref": 0.857, "agree": 1.0}
+{"ds": "churn", "K": 2, "d": 33, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.861, "acc_ref": 0.861, "agree": 1.0}
+{"ds": "churn", "K": 2, "d": 33, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.853, "acc_ref": 0.853, "agree": 1.0}
+{"ds": "churn", "K": 2, "d": 33, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.841, "acc_ref": 0.841, "agree": 1.0}
+{"ds": "churn", "K": 2, "d": 33, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.848, "acc_ref": 0.848, "agree": 1.0}
+{"ds": "churn", "K": 2, "d": 33, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.835, "acc_ref": 0.835, "agree": 1.0}
+{"ds": "churn", "K": 2, "d": 33, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.847, "acc_ref": 0.847, "agree": 1.0}
+{"ds": "churn", "K": 2, "d": 33, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.851, "acc_ref": 0.851, "agree": 1.0}
+{"ds": "churn", "K": 2, "d": 33, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.843, "acc_ref": 0.843, "agree": 1.0}
+{"ds": "churn", "K": 2, "d": 33, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.866, "acc_ref": 0.866, "agree": 1.0}
+{"ds": "churn", "K": 2, "d": 33, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.875, "acc_ref": 0.875, "agree": 1.0}
+{"ds": "churn", "K": 2, "d": 33, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.863, "acc_ref": 0.863, "agree": 1.0}
+{"ds": "churn", "K": 2, "d": 33, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.847, "acc_ref": 0.847, "agree": 1.0}
+{"ds": "churn", "K": 2, "d": 33, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.844, "acc_ref": 0.844, "agree": 1.0}
+{"ds": "churn", "K": 2, "d": 33, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.842, "acc_ref": 0.842, "agree": 1.0}
+{"ds": "car", "K": 4, "d": 21, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.8497109826589595, "acc_ref": 0.8497109826589595, "agree": 1.0}
+{"ds": "car", "K": 4, "d": 21, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8959537572254336, "acc_ref": 0.8959537572254336, "agree": 1.0}
+{"ds": "car", "K": 4, "d": 21, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8063583815028902, "acc_ref": 0.8063583815028902, "agree": 1.0}
+{"ds": "car", "K": 4, "d": 21, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.8439306358381503, "acc_ref": 0.8439306358381503, "agree": 1.0}
+{"ds": "car", "K": 4, "d": 21, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.884393063583815, "acc_ref": 0.884393063583815, "agree": 1.0}
+{"ds": "car", "K": 4, "d": 21, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8034682080924855, "acc_ref": 0.8034682080924855, "agree": 1.0}
+{"ds": "car", "K": 4, "d": 21, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.8554913294797688, "acc_ref": 0.8554913294797688, "agree": 1.0}
+{"ds": "car", "K": 4, "d": 21, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8901734104046243, "acc_ref": 0.8901734104046243, "agree": 1.0}
+{"ds": "car", "K": 4, "d": 21, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8005780346820809, "acc_ref": 0.8005780346820809, "agree": 1.0}
+{"ds": "car", "K": 4, "d": 21, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.8869565217391304, "acc_ref": 0.8869565217391304, "agree": 1.0}
+{"ds": "car", "K": 4, "d": 21, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9217391304347826, "acc_ref": 0.9217391304347826, "agree": 1.0}
+{"ds": "car", "K": 4, "d": 21, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7971014492753623, "acc_ref": 0.7971014492753623, "agree": 1.0}
+{"ds": "car", "K": 4, "d": 21, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.855072463768116, "acc_ref": 0.855072463768116, "agree": 1.0}
+{"ds": "car", "K": 4, "d": 21, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8927536231884058, "acc_ref": 0.8927536231884058, "agree": 1.0}
+{"ds": "car", "K": 4, "d": 21, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8057971014492754, "acc_ref": 0.8057971014492754, "agree": 1.0}
+{"ds": "numerai28.6", "K": 2, "d": 21, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.5104, "acc_ref": 0.5104, "agree": 1.0}
+{"ds": "numerai28.6", "K": 2, "d": 21, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.5114, "acc_ref": 0.5114, "agree": 1.0}
+{"ds": "numerai28.6", "K": 2, "d": 21, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5138, "acc_ref": 0.5136, "agree": 0.9998}
+{"ds": "numerai28.6", "K": 2, "d": 21, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.5226, "acc_ref": 0.5226, "agree": 1.0}
+{"ds": "numerai28.6", "K": 2, "d": 21, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.5264, "acc_ref": 0.5262, "agree": 0.9998}
+{"ds": "numerai28.6", "K": 2, "d": 21, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.517, "acc_ref": 0.517, "agree": 1.0}
+{"ds": "numerai28.6", "K": 2, "d": 21, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.5118, "acc_ref": 0.5118, "agree": 1.0}
+{"ds": "numerai28.6", "K": 2, "d": 21, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.5126, "acc_ref": 0.5126, "agree": 1.0}
+{"ds": "numerai28.6", "K": 2, "d": 21, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5144, "acc_ref": 0.5144, "agree": 1.0}
+{"ds": "numerai28.6", "K": 2, "d": 21, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.5236, "acc_ref": 0.5236, "agree": 1.0}
+{"ds": "numerai28.6", "K": 2, "d": 21, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.5226, "acc_ref": 0.5226, "agree": 1.0}
+{"ds": "numerai28.6", "K": 2, "d": 21, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5202, "acc_ref": 0.5202, "agree": 1.0}
+{"ds": "numerai28.6", "K": 2, "d": 21, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.5168, "acc_ref": 0.5168, "agree": 1.0}
+{"ds": "numerai28.6", "K": 2, "d": 21, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.5178, "acc_ref": 0.5178, "agree": 1.0}
+{"ds": "numerai28.6", "K": 2, "d": 21, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.518, "acc_ref": 0.518, "agree": 1.0}
+{"ds": "adult", "K": 2, "d": 67, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.798, "acc_ref": 0.798, "agree": 1.0}
+{"ds": "adult", "K": 2, "d": 67, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8288, "acc_ref": 0.8288, "agree": 1.0}
+{"ds": "adult", "K": 2, "d": 67, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7934, "acc_ref": 0.7934, "agree": 1.0}
+{"ds": "adult", "K": 2, "d": 67, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.7966, "acc_ref": 0.7966, "agree": 1.0}
+{"ds": "adult", "K": 2, "d": 67, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.825, "acc_ref": 0.825, "agree": 1.0}
+{"ds": "adult", "K": 2, "d": 67, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7996, "acc_ref": 0.7996, "agree": 1.0}
+{"ds": "adult", "K": 2, "d": 67, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.7968, "acc_ref": 0.7968, "agree": 1.0}
+{"ds": "adult", "K": 2, "d": 67, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8228, "acc_ref": 0.8228, "agree": 1.0}
+{"ds": "adult", "K": 2, "d": 67, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.796, "acc_ref": 0.796, "agree": 1.0}
+{"ds": "adult", "K": 2, "d": 67, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.8034, "acc_ref": 0.8034, "agree": 1.0}
+{"ds": "adult", "K": 2, "d": 67, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8298, "acc_ref": 0.8298, "agree": 1.0}
+{"ds": "adult", "K": 2, "d": 67, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.793, "acc_ref": 0.793, "agree": 1.0}
+{"ds": "adult", "K": 2, "d": 67, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.7902, "acc_ref": 0.7902, "agree": 1.0}
+{"ds": "adult", "K": 2, "d": 67, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8246, "acc_ref": 0.8246, "agree": 1.0}
+{"ds": "adult", "K": 2, "d": 67, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7928, "acc_ref": 0.7928, "agree": 1.0}
+{"ds": "steel-plates-fault", "K": 7, "d": 27, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.6143958868894601, "acc_ref": 0.6143958868894601, "agree": 1.0}
+{"ds": "steel-plates-fault", "K": 7, "d": 27, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6632390745501285, "acc_ref": 0.6632390745501285, "agree": 1.0}
+{"ds": "steel-plates-fault", "K": 7, "d": 27, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.4524421593830334, "acc_ref": 0.4524421593830334, "agree": 1.0}
+{"ds": "steel-plates-fault", "K": 7, "d": 27, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.6365979381443299, "acc_ref": 0.6365979381443299, "agree": 1.0}
+{"ds": "steel-plates-fault", "K": 7, "d": 27, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6726804123711341, "acc_ref": 0.6726804123711341, "agree": 1.0}
+{"ds": "steel-plates-fault", "K": 7, "d": 27, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.4536082474226804, "acc_ref": 0.4536082474226804, "agree": 1.0}
+{"ds": "steel-plates-fault", "K": 7, "d": 27, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.6185567010309279, "acc_ref": 0.6185567010309279, "agree": 1.0}
+{"ds": "steel-plates-fault", "K": 7, "d": 27, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6391752577319587, "acc_ref": 0.6391752577319587, "agree": 1.0}
+{"ds": "steel-plates-fault", "K": 7, "d": 27, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.4484536082474227, "acc_ref": 0.4484536082474227, "agree": 1.0}
+{"ds": "steel-plates-fault", "K": 7, "d": 27, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.5902061855670103, "acc_ref": 0.5902061855670103, "agree": 1.0}
+{"ds": "steel-plates-fault", "K": 7, "d": 27, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.654639175257732, "acc_ref": 0.654639175257732, "agree": 1.0}
+{"ds": "steel-plates-fault", "K": 7, "d": 27, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5, "acc_ref": 0.5, "agree": 1.0}
+{"ds": "steel-plates-fault", "K": 7, "d": 27, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.6288659793814433, "acc_ref": 0.6288659793814433, "agree": 1.0}
+{"ds": "steel-plates-fault", "K": 7, "d": 27, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6314432989690721, "acc_ref": 0.6314432989690721, "agree": 1.0}
+{"ds": "steel-plates-fault", "K": 7, "d": 27, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.44587628865979384, "acc_ref": 0.44587628865979384, "agree": 1.0}
+{"ds": "mfeat-pixel", "K": 10, "d": 240, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.88, "acc_ref": 0.88, "agree": 1.0}
+{"ds": "mfeat-pixel", "K": 10, "d": 240, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9525, "acc_ref": 0.9525, "agree": 1.0}
+{"ds": "mfeat-pixel", "K": 10, "d": 240, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9325, "acc_ref": 0.9325, "agree": 1.0}
+{"ds": "mfeat-pixel", "K": 10, "d": 240, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.8875, "acc_ref": 0.8875, "agree": 1.0}
+{"ds": "mfeat-pixel", "K": 10, "d": 240, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.93, "acc_ref": 0.93, "agree": 1.0}
+{"ds": "mfeat-pixel", "K": 10, "d": 240, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.905, "acc_ref": 0.905, "agree": 1.0}
+{"ds": "mfeat-pixel", "K": 10, "d": 240, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.8575, "acc_ref": 0.8575, "agree": 1.0}
+{"ds": "mfeat-pixel", "K": 10, "d": 240, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.945, "acc_ref": 0.945, "agree": 1.0}
+{"ds": "mfeat-pixel", "K": 10, "d": 240, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9175, "acc_ref": 0.9175, "agree": 1.0}
+{"ds": "mfeat-pixel", "K": 10, "d": 240, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.915, "acc_ref": 0.915, "agree": 1.0}
+{"ds": "mfeat-pixel", "K": 10, "d": 240, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.95, "acc_ref": 0.95, "agree": 1.0}
+{"ds": "mfeat-pixel", "K": 10, "d": 240, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9425, "acc_ref": 0.9425, "agree": 1.0}
+{"ds": "mfeat-pixel", "K": 10, "d": 240, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.885, "acc_ref": 0.885, "agree": 1.0}
+{"ds": "mfeat-pixel", "K": 10, "d": 240, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.925, "acc_ref": 0.925, "agree": 1.0}
+{"ds": "mfeat-pixel", "K": 10, "d": 240, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9225, "acc_ref": 0.9225, "agree": 1.0}
+{"ds": "wilt", "K": 2, "d": 5, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.7479338842975206, "acc_ref": 0.7479338842975206, "agree": 1.0}
+{"ds": "wilt", "K": 2, "d": 5, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9452479338842975, "acc_ref": 0.9452479338842975, "agree": 1.0}
+{"ds": "wilt", "K": 2, "d": 5, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8832644628099173, "acc_ref": 0.8832644628099173, "agree": 1.0}
+{"ds": "wilt", "K": 2, "d": 5, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.7510330578512396, "acc_ref": 0.7510330578512396, "agree": 1.0}
+{"ds": "wilt", "K": 2, "d": 5, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9462809917355371, "acc_ref": 0.9462809917355371, "agree": 1.0}
+{"ds": "wilt", "K": 2, "d": 5, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9142561983471075, "acc_ref": 0.9142561983471075, "agree": 1.0}
+{"ds": "wilt", "K": 2, "d": 5, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.753099173553719, "acc_ref": 0.753099173553719, "agree": 1.0}
+{"ds": "wilt", "K": 2, "d": 5, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9462809917355371, "acc_ref": 0.9462809917355371, "agree": 1.0}
+{"ds": "wilt", "K": 2, "d": 5, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9039256198347108, "acc_ref": 0.9039256198347108, "agree": 1.0}
+{"ds": "wilt", "K": 2, "d": 5, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.7365702479338843, "acc_ref": 0.7365702479338843, "agree": 1.0}
+{"ds": "wilt", "K": 2, "d": 5, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9462809917355371, "acc_ref": 0.9462809917355371, "agree": 1.0}
+{"ds": "wilt", "K": 2, "d": 5, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8853305785123967, "acc_ref": 0.8853305785123967, "agree": 1.0}
+{"ds": "wilt", "K": 2, "d": 5, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.7352637021716649, "acc_ref": 0.7352637021716649, "agree": 1.0}
+{"ds": "wilt", "K": 2, "d": 5, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9462254395036195, "acc_ref": 0.9462254395036195, "agree": 1.0}
+{"ds": "wilt", "K": 2, "d": 5, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8831437435367114, "acc_ref": 0.8831437435367114, "agree": 1.0}
+{"ds": "climate-model-simulation-crashes", "K": 2, "d": 18, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.9537037037037037, "acc_ref": 0.9537037037037037, "agree": 1.0}
+{"ds": "climate-model-simulation-crashes", "K": 2, "d": 18, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9537037037037037, "acc_ref": 0.9537037037037037, "agree": 1.0}
+{"ds": "climate-model-simulation-crashes", "K": 2, "d": 18, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9259259259259259, "acc_ref": 0.9259259259259259, "agree": 1.0}
+{"ds": "climate-model-simulation-crashes", "K": 2, "d": 18, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.9444444444444444, "acc_ref": 0.9444444444444444, "agree": 1.0}
+{"ds": "climate-model-simulation-crashes", "K": 2, "d": 18, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9351851851851852, "acc_ref": 0.9351851851851852, "agree": 1.0}
+{"ds": "climate-model-simulation-crashes", "K": 2, "d": 18, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9351851851851852, "acc_ref": 0.9351851851851852, "agree": 1.0}
+{"ds": "climate-model-simulation-crashes", "K": 2, "d": 18, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.9722222222222222, "acc_ref": 0.9722222222222222, "agree": 1.0}
+{"ds": "climate-model-simulation-crashes", "K": 2, "d": 18, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9722222222222222, "acc_ref": 0.9722222222222222, "agree": 1.0}
+{"ds": "climate-model-simulation-crashes", "K": 2, "d": 18, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9629629629629629, "acc_ref": 0.9629629629629629, "agree": 1.0}
+{"ds": "climate-model-simulation-crashes", "K": 2, "d": 18, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.9537037037037037, "acc_ref": 0.9537037037037037, "agree": 1.0}
+{"ds": "climate-model-simulation-crashes", "K": 2, "d": 18, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9444444444444444, "acc_ref": 0.9444444444444444, "agree": 1.0}
+{"ds": "climate-model-simulation-crashes", "K": 2, "d": 18, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9629629629629629, "acc_ref": 0.9629629629629629, "agree": 1.0}
+{"ds": "climate-model-simulation-crashes", "K": 2, "d": 18, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.9351851851851852, "acc_ref": 0.9351851851851852, "agree": 1.0}
+{"ds": "climate-model-simulation-crashes", "K": 2, "d": 18, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9351851851851852, "acc_ref": 0.9351851851851852, "agree": 1.0}
+{"ds": "climate-model-simulation-crashes", "K": 2, "d": 18, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9629629629629629, "acc_ref": 0.9629629629629629, "agree": 1.0}
+{"ds": "segment", "K": 7, "d": 17, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.6904761904761905, "acc_ref": 0.6904761904761905, "agree": 1.0}
+{"ds": "segment", "K": 7, "d": 17, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8744588744588745, "acc_ref": 0.8766233766233766, "agree": 0.9978354978354979}
+{"ds": "segment", "K": 7, "d": 17, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8095238095238095, "acc_ref": 0.8095238095238095, "agree": 1.0}
+{"ds": "segment", "K": 7, "d": 17, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.6926406926406926, "acc_ref": 0.6926406926406926, "agree": 1.0}
+{"ds": "segment", "K": 7, "d": 17, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8787878787878788, "acc_ref": 0.8787878787878788, "agree": 1.0}
+{"ds": "segment", "K": 7, "d": 17, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7792207792207793, "acc_ref": 0.7792207792207793, "agree": 1.0}
+{"ds": "segment", "K": 7, "d": 17, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.6926406926406926, "acc_ref": 0.6926406926406926, "agree": 1.0}
+{"ds": "segment", "K": 7, "d": 17, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8679653679653679, "acc_ref": 0.8679653679653679, "agree": 1.0}
+{"ds": "segment", "K": 7, "d": 17, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7857142857142857, "acc_ref": 0.7857142857142857, "agree": 1.0}
+{"ds": "segment", "K": 7, "d": 17, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.6623376623376623, "acc_ref": 0.6623376623376623, "agree": 1.0}
+{"ds": "segment", "K": 7, "d": 17, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8831168831168831, "acc_ref": 0.8831168831168831, "agree": 1.0}
+{"ds": "segment", "K": 7, "d": 17, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.79004329004329, "acc_ref": 0.79004329004329, "agree": 1.0}
+{"ds": "segment", "K": 7, "d": 17, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.6601731601731602, "acc_ref": 0.6601731601731602, "agree": 1.0}
+{"ds": "segment", "K": 7, "d": 17, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8593073593073594, "acc_ref": 0.8593073593073594, "agree": 1.0}
+{"ds": "segment", "K": 7, "d": 17, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7727272727272727, "acc_ref": 0.7727272727272727, "agree": 1.0}
+{"ds": "dna", "K": 3, "d": 360, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.9200626959247649, "acc_ref": 0.9200626959247649, "agree": 1.0}
+{"ds": "dna", "K": 3, "d": 360, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9278996865203761, "acc_ref": 0.9278996865203761, "agree": 1.0}
+{"ds": "dna", "K": 3, "d": 360, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9357366771159875, "acc_ref": 0.9357366771159875, "agree": 1.0}
+{"ds": "dna", "K": 3, "d": 360, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.9010989010989011, "acc_ref": 0.9010989010989011, "agree": 1.0}
+{"ds": "dna", "K": 3, "d": 360, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9167974882260597, "acc_ref": 0.9167974882260597, "agree": 1.0}
+{"ds": "dna", "K": 3, "d": 360, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9372056514913658, "acc_ref": 0.9372056514913658, "agree": 1.0}
+{"ds": "dna", "K": 3, "d": 360, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.9199372056514914, "acc_ref": 0.9199372056514914, "agree": 1.0}
+{"ds": "dna", "K": 3, "d": 360, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9152276295133438, "acc_ref": 0.9152276295133438, "agree": 1.0}
+{"ds": "dna", "K": 3, "d": 360, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9497645211930926, "acc_ref": 0.9497645211930926, "agree": 1.0}
+{"ds": "dna", "K": 3, "d": 360, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.9262166405023547, "acc_ref": 0.9262166405023547, "agree": 1.0}
+{"ds": "dna", "K": 3, "d": 360, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9277864992150706, "acc_ref": 0.9277864992150706, "agree": 1.0}
+{"ds": "dna", "K": 3, "d": 360, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9372056514913658, "acc_ref": 0.9372056514913658, "agree": 1.0}
+{"ds": "dna", "K": 3, "d": 360, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.8979591836734694, "acc_ref": 0.8979591836734694, "agree": 1.0}
+{"ds": "dna", "K": 3, "d": 360, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9073783359497645, "acc_ref": 0.9073783359497645, "agree": 1.0}
+{"ds": "dna", "K": 3, "d": 360, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9183673469387755, "acc_ref": 0.9183673469387755, "agree": 1.0}
+{"ds": "spambase", "K": 2, "d": 57, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.8827361563517915, "acc_ref": 0.8827361563517915, "agree": 1.0}
+{"ds": "spambase", "K": 2, "d": 57, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8675352877307275, "acc_ref": 0.8675352877307275, "agree": 1.0}
+{"ds": "spambase", "K": 2, "d": 57, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8143322475570033, "acc_ref": 0.8143322475570033, "agree": 1.0}
+{"ds": "spambase", "K": 2, "d": 57, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.8956521739130435, "acc_ref": 0.8956521739130435, "agree": 1.0}
+{"ds": "spambase", "K": 2, "d": 57, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8760869565217392, "acc_ref": 0.8760869565217392, "agree": 1.0}
+{"ds": "spambase", "K": 2, "d": 57, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8260869565217391, "acc_ref": 0.8260869565217391, "agree": 1.0}
+{"ds": "spambase", "K": 2, "d": 57, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.9054347826086957, "acc_ref": 0.9054347826086957, "agree": 1.0}
+{"ds": "spambase", "K": 2, "d": 57, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8695652173913043, "acc_ref": 0.8695652173913043, "agree": 1.0}
+{"ds": "spambase", "K": 2, "d": 57, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8184782608695652, "acc_ref": 0.8184782608695652, "agree": 1.0}
+{"ds": "spambase", "K": 2, "d": 57, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.8880434782608696, "acc_ref": 0.8880434782608696, "agree": 1.0}
+{"ds": "spambase", "K": 2, "d": 57, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8717391304347826, "acc_ref": 0.8717391304347826, "agree": 1.0}
+{"ds": "spambase", "K": 2, "d": 57, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8315217391304348, "acc_ref": 0.8315217391304348, "agree": 1.0}
+{"ds": "spambase", "K": 2, "d": 57, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.8858695652173914, "acc_ref": 0.8858695652173914, "agree": 1.0}
+{"ds": "spambase", "K": 2, "d": 57, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.866304347826087, "acc_ref": 0.866304347826087, "agree": 1.0}
+{"ds": "spambase", "K": 2, "d": 57, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8130434782608695, "acc_ref": 0.8130434782608695, "agree": 1.0}
+{"ds": "nomao", "K": 2, "d": 174, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.8548, "acc_ref": 0.8548, "agree": 1.0}
+{"ds": "nomao", "K": 2, "d": 174, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.855, "acc_ref": 0.855, "agree": 1.0}
+{"ds": "nomao", "K": 2, "d": 174, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7894, "acc_ref": 0.8226, "agree": 0.9608}
+{"ds": "nomao", "K": 2, "d": 174, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.8618, "acc_ref": 0.8618, "agree": 1.0}
+{"ds": "nomao", "K": 2, "d": 174, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8606, "acc_ref": 0.8606, "agree": 1.0}
+{"ds": "nomao", "K": 2, "d": 174, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8, "acc_ref": 0.831, "agree": 0.9634}
+{"ds": "nomao", "K": 2, "d": 174, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.8638, "acc_ref": 0.8638, "agree": 1.0}
+{"ds": "nomao", "K": 2, "d": 174, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8632, "acc_ref": 0.8632, "agree": 1.0}
+{"ds": "nomao", "K": 2, "d": 174, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7934, "acc_ref": 0.825, "agree": 0.96}
+{"ds": "nomao", "K": 2, "d": 174, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.8616, "acc_ref": 0.8616, "agree": 1.0}
+{"ds": "nomao", "K": 2, "d": 174, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8616, "acc_ref": 0.8616, "agree": 1.0}
+{"ds": "nomao", "K": 2, "d": 174, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.789, "acc_ref": 0.8254, "agree": 0.9536}
+{"ds": "nomao", "K": 2, "d": 174, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.8644, "acc_ref": 0.8644, "agree": 1.0}
+{"ds": "nomao", "K": 2, "d": 174, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8614, "acc_ref": 0.8614, "agree": 1.0}
+{"ds": "nomao", "K": 2, "d": 174, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7994, "acc_ref": 0.8306, "agree": 0.9616}
+{"ds": "GesturePhaseSegmentationProcessed", "K": 5, "d": 32, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.43645569620253166, "acc_ref": 0.43645569620253166, "agree": 1.0}
+{"ds": "GesturePhaseSegmentationProcessed", "K": 5, "d": 32, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.4531645569620253, "acc_ref": 0.4531645569620253, "agree": 1.0}
+{"ds": "GesturePhaseSegmentationProcessed", "K": 5, "d": 32, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.4232911392405063, "acc_ref": 0.4232911392405063, "agree": 1.0}
+{"ds": "GesturePhaseSegmentationProcessed", "K": 5, "d": 32, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.45721518987341775, "acc_ref": 0.45721518987341775, "agree": 1.0}
+{"ds": "GesturePhaseSegmentationProcessed", "K": 5, "d": 32, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.45518987341772155, "acc_ref": 0.45518987341772155, "agree": 1.0}
+{"ds": "GesturePhaseSegmentationProcessed", "K": 5, "d": 32, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.45518987341772155, "acc_ref": 0.45518987341772155, "agree": 1.0}
+{"ds": "GesturePhaseSegmentationProcessed", "K": 5, "d": 32, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.4450632911392405, "acc_ref": 0.4450632911392405, "agree": 1.0}
+{"ds": "GesturePhaseSegmentationProcessed", "K": 5, "d": 32, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.4541772151898734, "acc_ref": 0.4541772151898734, "agree": 1.0}
+{"ds": "GesturePhaseSegmentationProcessed", "K": 5, "d": 32, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.40962025316455697, "acc_ref": 0.40962025316455697, "agree": 1.0}
+{"ds": "GesturePhaseSegmentationProcessed", "K": 5, "d": 32, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.42958459979736574, "acc_ref": 0.42958459979736574, "agree": 1.0}
+{"ds": "GesturePhaseSegmentationProcessed", "K": 5, "d": 32, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.4381965552178318, "acc_ref": 0.4376899696048632, "agree": 0.9994934143870314}
+{"ds": "GesturePhaseSegmentationProcessed", "K": 5, "d": 32, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.4022289766970618, "acc_ref": 0.4022289766970618, "agree": 1.0}
+{"ds": "GesturePhaseSegmentationProcessed", "K": 5, "d": 32, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.4376899696048632, "acc_ref": 0.4376899696048632, "agree": 1.0}
+{"ds": "GesturePhaseSegmentationProcessed", "K": 5, "d": 32, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.4493414387031408, "acc_ref": 0.44883485309017224, "agree": 0.9994934143870314}
+{"ds": "GesturePhaseSegmentationProcessed", "K": 5, "d": 32, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.4083080040526849, "acc_ref": 0.4083080040526849, "agree": 1.0}
+{"ds": "analcatdata_authorship", "K": 4, "d": 70, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.9881656804733728, "acc_ref": 0.9881656804733728, "agree": 1.0}
+{"ds": "analcatdata_authorship", "K": 4, "d": 70, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9822485207100592, "acc_ref": 0.9822485207100592, "agree": 1.0}
+{"ds": "analcatdata_authorship", "K": 4, "d": 70, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9881656804733728, "acc_ref": 0.9881656804733728, "agree": 1.0}
+{"ds": "analcatdata_authorship", "K": 4, "d": 70, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.9821428571428571, "acc_ref": 0.9821428571428571, "agree": 1.0}
+{"ds": "analcatdata_authorship", "K": 4, "d": 70, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9880952380952381, "acc_ref": 0.9880952380952381, "agree": 1.0}
+{"ds": "analcatdata_authorship", "K": 4, "d": 70, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9821428571428571, "acc_ref": 0.9821428571428571, "agree": 1.0}
+{"ds": "analcatdata_authorship", "K": 4, "d": 70, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.9821428571428571, "acc_ref": 0.9821428571428571, "agree": 1.0}
+{"ds": "analcatdata_authorship", "K": 4, "d": 70, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9880952380952381, "acc_ref": 0.9880952380952381, "agree": 1.0}
+{"ds": "analcatdata_authorship", "K": 4, "d": 70, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9821428571428571, "acc_ref": 0.9821428571428571, "agree": 1.0}
+{"ds": "analcatdata_authorship", "K": 4, "d": 70, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.9702380952380952, "acc_ref": 0.9702380952380952, "agree": 1.0}
+{"ds": "analcatdata_authorship", "K": 4, "d": 70, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9940476190476191, "acc_ref": 0.9940476190476191, "agree": 1.0}
+{"ds": "analcatdata_authorship", "K": 4, "d": 70, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9821428571428571, "acc_ref": 0.9821428571428571, "agree": 1.0}
+{"ds": "analcatdata_authorship", "K": 4, "d": 70, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.9940476190476191, "acc_ref": 0.9940476190476191, "agree": 1.0}
+{"ds": "analcatdata_authorship", "K": 4, "d": 70, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9940476190476191, "acc_ref": 0.9940476190476191, "agree": 1.0}
+{"ds": "analcatdata_authorship", "K": 4, "d": 70, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9761904761904762, "acc_ref": 0.9761904761904762, "agree": 1.0}
+{"ds": "har", "K": 6, "d": 561, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.6684466019417475, "acc_ref": 0.6684466019417475, "agree": 1.0}
+{"ds": "har", "K": 6, "d": 561, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9004854368932039, "acc_ref": 0.9004854368932039, "agree": 1.0}
+{"ds": "har", "K": 6, "d": 561, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6742718446601942, "acc_ref": 0.7257281553398058, "agree": 0.6495145631067961}
+{"ds": "har", "K": 6, "d": 561, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.6601941747572816, "acc_ref": 0.6601941747572816, "agree": 1.0}
+{"ds": "har", "K": 6, "d": 561, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8859223300970874, "acc_ref": 0.8859223300970874, "agree": 1.0}
+{"ds": "har", "K": 6, "d": 561, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6597087378640777, "acc_ref": 0.766504854368932, "agree": 0.8577669902912621}
+{"ds": "har", "K": 6, "d": 561, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.6728155339805825, "acc_ref": 0.6728155339805825, "agree": 1.0}
+{"ds": "har", "K": 6, "d": 561, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8898058252427185, "acc_ref": 0.8902912621359224, "agree": 0.9995145631067961}
+{"ds": "har", "K": 6, "d": 561, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6199029126213592, "acc_ref": 0.7262135922330097, "agree": 0.8131067961165048}
+{"ds": "har", "K": 6, "d": 561, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.6694174757281554, "acc_ref": 0.6694174757281554, "agree": 1.0}
+{"ds": "har", "K": 6, "d": 561, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8927184466019418, "acc_ref": 0.8922330097087379, "agree": 0.9995145631067961}
+{"ds": "har", "K": 6, "d": 561, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.658252427184466, "acc_ref": 0.7592233009708738, "agree": 0.6907766990291262}
+{"ds": "har", "K": 6, "d": 561, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.6629431762991743, "acc_ref": 0.6629431762991743, "agree": 1.0}
+{"ds": "har", "K": 6, "d": 561, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8873239436619719, "acc_ref": 0.8868382710053424, "agree": 0.9995143273433705}
+{"ds": "har", "K": 6, "d": 561, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5915492957746479, "acc_ref": 0.7270519669742593, "agree": 0.7265662943176299}
+{"ds": "PhishingWebsites", "K": 2, "d": 68, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.9199457259158752, "acc_ref": 0.9199457259158752, "agree": 1.0}
+{"ds": "PhishingWebsites", "K": 2, "d": 68, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9222071460877431, "acc_ref": 0.9222071460877431, "agree": 1.0}
+{"ds": "PhishingWebsites", "K": 2, "d": 68, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7087290818634102, "acc_ref": 0.7087290818634102, "agree": 1.0}
+{"ds": "PhishingWebsites", "K": 2, "d": 68, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.9384893713251922, "acc_ref": 0.9384893713251922, "agree": 1.0}
+{"ds": "PhishingWebsites", "K": 2, "d": 68, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9425599276345545, "acc_ref": 0.9425599276345545, "agree": 1.0}
+{"ds": "PhishingWebsites", "K": 2, "d": 68, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7123473541383989, "acc_ref": 0.7123473541383989, "agree": 1.0}
+{"ds": "PhishingWebsites", "K": 2, "d": 68, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.9249208502939846, "acc_ref": 0.9249208502939846, "agree": 1.0}
+{"ds": "PhishingWebsites", "K": 2, "d": 68, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9289914066033469, "acc_ref": 0.9289914066033469, "agree": 1.0}
+{"ds": "PhishingWebsites", "K": 2, "d": 68, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.707824513794663, "acc_ref": 0.707824513794663, "agree": 1.0}
+{"ds": "PhishingWebsites", "K": 2, "d": 68, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.9235639981908639, "acc_ref": 0.9235639981908639, "agree": 1.0}
+{"ds": "PhishingWebsites", "K": 2, "d": 68, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9262777023971054, "acc_ref": 0.9262777023971054, "agree": 1.0}
+{"ds": "PhishingWebsites", "K": 2, "d": 68, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7051108095884215, "acc_ref": 0.7051108095884215, "agree": 1.0}
+{"ds": "PhishingWebsites", "K": 2, "d": 68, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.9149706015377658, "acc_ref": 0.9149706015377658, "agree": 1.0}
+{"ds": "PhishingWebsites", "K": 2, "d": 68, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9145183175033921, "acc_ref": 0.9145183175033921, "agree": 1.0}
+{"ds": "PhishingWebsites", "K": 2, "d": 68, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7109905020352781, "acc_ref": 0.7109905020352781, "agree": 1.0}
+{"ds": "analcatdata_dmft", "K": 6, "d": 21, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.2125, "acc_ref": 0.2125, "agree": 1.0}
+{"ds": "analcatdata_dmft", "K": 6, "d": 21, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.2125, "acc_ref": 0.2125, "agree": 1.0}
+{"ds": "analcatdata_dmft", "K": 6, "d": 21, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.1875, "acc_ref": 0.1875, "agree": 1.0}
+{"ds": "analcatdata_dmft", "K": 6, "d": 21, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.2, "acc_ref": 0.2, "agree": 1.0}
+{"ds": "analcatdata_dmft", "K": 6, "d": 21, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.20625, "acc_ref": 0.20625, "agree": 1.0}
+{"ds": "analcatdata_dmft", "K": 6, "d": 21, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.2, "acc_ref": 0.2, "agree": 1.0}
+{"ds": "analcatdata_dmft", "K": 6, "d": 21, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.22641509433962265, "acc_ref": 0.22641509433962265, "agree": 1.0}
+{"ds": "analcatdata_dmft", "K": 6, "d": 21, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.22641509433962265, "acc_ref": 0.22641509433962265, "agree": 1.0}
+{"ds": "analcatdata_dmft", "K": 6, "d": 21, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.22641509433962265, "acc_ref": 0.22641509433962265, "agree": 1.0}
+{"ds": "analcatdata_dmft", "K": 6, "d": 21, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.2641509433962264, "acc_ref": 0.2641509433962264, "agree": 1.0}
+{"ds": "analcatdata_dmft", "K": 6, "d": 21, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.24528301886792453, "acc_ref": 0.24528301886792453, "agree": 1.0}
+{"ds": "analcatdata_dmft", "K": 6, "d": 21, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.22641509433962265, "acc_ref": 0.22641509433962265, "agree": 1.0}
+{"ds": "analcatdata_dmft", "K": 6, "d": 21, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.18238993710691823, "acc_ref": 0.18238993710691823, "agree": 1.0}
+{"ds": "analcatdata_dmft", "K": 6, "d": 21, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.1949685534591195, "acc_ref": 0.1949685534591195, "agree": 1.0}
+{"ds": "analcatdata_dmft", "K": 6, "d": 21, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.18238993710691823, "acc_ref": 0.18238993710691823, "agree": 1.0}
+{"ds": "tic-tac-toe", "K": 2, "d": 27, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.6614583333333334, "acc_ref": 0.6614583333333334, "agree": 1.0}
+{"ds": "tic-tac-toe", "K": 2, "d": 27, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7083333333333334, "acc_ref": 0.7083333333333334, "agree": 1.0}
+{"ds": "tic-tac-toe", "K": 2, "d": 27, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6927083333333334, "acc_ref": 0.6927083333333334, "agree": 1.0}
+{"ds": "tic-tac-toe", "K": 2, "d": 27, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.671875, "acc_ref": 0.671875, "agree": 1.0}
+{"ds": "tic-tac-toe", "K": 2, "d": 27, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6822916666666666, "acc_ref": 0.6822916666666666, "agree": 1.0}
+{"ds": "tic-tac-toe", "K": 2, "d": 27, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6770833333333334, "acc_ref": 0.6770833333333334, "agree": 1.0}
+{"ds": "tic-tac-toe", "K": 2, "d": 27, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.6875, "acc_ref": 0.6875, "agree": 1.0}
+{"ds": "tic-tac-toe", "K": 2, "d": 27, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7083333333333334, "acc_ref": 0.7083333333333334, "agree": 1.0}
+{"ds": "tic-tac-toe", "K": 2, "d": 27, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6770833333333334, "acc_ref": 0.6770833333333334, "agree": 1.0}
+{"ds": "tic-tac-toe", "K": 2, "d": 27, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.6335078534031413, "acc_ref": 0.6335078534031413, "agree": 1.0}
+{"ds": "tic-tac-toe", "K": 2, "d": 27, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6858638743455497, "acc_ref": 0.6858638743455497, "agree": 1.0}
+{"ds": "tic-tac-toe", "K": 2, "d": 27, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6335078534031413, "acc_ref": 0.6335078534031413, "agree": 1.0}
+{"ds": "tic-tac-toe", "K": 2, "d": 27, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.6910994764397905, "acc_ref": 0.6910994764397905, "agree": 1.0}
+{"ds": "tic-tac-toe", "K": 2, "d": 27, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7172774869109948, "acc_ref": 0.7172774869109948, "agree": 1.0}
+{"ds": "tic-tac-toe", "K": 2, "d": 27, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.675392670157068, "acc_ref": 0.675392670157068, "agree": 1.0}
+{"ds": "jungle_chess_2pcs_raw_endgame_complete", "K": 3, "d": 6, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.6408, "acc_ref": 0.6408, "agree": 1.0}
+{"ds": "jungle_chess_2pcs_raw_endgame_complete", "K": 3, "d": 6, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6822, "acc_ref": 0.6822, "agree": 1.0}
+{"ds": "jungle_chess_2pcs_raw_endgame_complete", "K": 3, "d": 6, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7012, "acc_ref": 0.7012, "agree": 1.0}
+{"ds": "jungle_chess_2pcs_raw_endgame_complete", "K": 3, "d": 6, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.6334, "acc_ref": 0.6334, "agree": 1.0}
+{"ds": "jungle_chess_2pcs_raw_endgame_complete", "K": 3, "d": 6, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6752, "acc_ref": 0.6752, "agree": 1.0}
+{"ds": "jungle_chess_2pcs_raw_endgame_complete", "K": 3, "d": 6, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.692, "acc_ref": 0.692, "agree": 1.0}
+{"ds": "jungle_chess_2pcs_raw_endgame_complete", "K": 3, "d": 6, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.648, "acc_ref": 0.648, "agree": 1.0}
+{"ds": "jungle_chess_2pcs_raw_endgame_complete", "K": 3, "d": 6, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6808, "acc_ref": 0.6808, "agree": 1.0}
+{"ds": "jungle_chess_2pcs_raw_endgame_complete", "K": 3, "d": 6, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6938, "acc_ref": 0.6938, "agree": 1.0}
+{"ds": "jungle_chess_2pcs_raw_endgame_complete", "K": 3, "d": 6, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.6308, "acc_ref": 0.6308, "agree": 1.0}
+{"ds": "jungle_chess_2pcs_raw_endgame_complete", "K": 3, "d": 6, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6714, "acc_ref": 0.6714, "agree": 1.0}
+{"ds": "jungle_chess_2pcs_raw_endgame_complete", "K": 3, "d": 6, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6826, "acc_ref": 0.6826, "agree": 1.0}
+{"ds": "jungle_chess_2pcs_raw_endgame_complete", "K": 3, "d": 6, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.645, "acc_ref": 0.645, "agree": 1.0}
+{"ds": "jungle_chess_2pcs_raw_endgame_complete", "K": 3, "d": 6, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6824, "acc_ref": 0.6824, "agree": 1.0}
+{"ds": "jungle_chess_2pcs_raw_endgame_complete", "K": 3, "d": 6, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7032, "acc_ref": 0.7032, "agree": 1.0}
+{"ds": "vehicle", "K": 4, "d": 18, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.47058823529411764, "acc_ref": 0.47058823529411764, "agree": 1.0}
+{"ds": "vehicle", "K": 4, "d": 18, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.5352941176470588, "acc_ref": 0.5352941176470588, "agree": 1.0}
+{"ds": "vehicle", "K": 4, "d": 18, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.4411764705882353, "acc_ref": 0.4411764705882353, "agree": 1.0}
+{"ds": "vehicle", "K": 4, "d": 18, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.46745562130177515, "acc_ref": 0.46745562130177515, "agree": 1.0}
+{"ds": "vehicle", "K": 4, "d": 18, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.5976331360946746, "acc_ref": 0.5976331360946746, "agree": 1.0}
+{"ds": "vehicle", "K": 4, "d": 18, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.47337278106508873, "acc_ref": 0.47337278106508873, "agree": 1.0}
+{"ds": "vehicle", "K": 4, "d": 18, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.48520710059171596, "acc_ref": 0.48520710059171596, "agree": 1.0}
+{"ds": "vehicle", "K": 4, "d": 18, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.4970414201183432, "acc_ref": 0.4970414201183432, "agree": 1.0}
+{"ds": "vehicle", "K": 4, "d": 18, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.4556213017751479, "acc_ref": 0.4556213017751479, "agree": 1.0}
+{"ds": "vehicle", "K": 4, "d": 18, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.4437869822485207, "acc_ref": 0.4437869822485207, "agree": 1.0}
+{"ds": "vehicle", "K": 4, "d": 18, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.4911242603550296, "acc_ref": 0.4970414201183432, "agree": 0.9881656804733728}
+{"ds": "vehicle", "K": 4, "d": 18, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.46153846153846156, "acc_ref": 0.46153846153846156, "agree": 1.0}
+{"ds": "vehicle", "K": 4, "d": 18, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.46745562130177515, "acc_ref": 0.46745562130177515, "agree": 1.0}
+{"ds": "vehicle", "K": 4, "d": 18, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6272189349112426, "acc_ref": 0.621301775147929, "agree": 0.9940828402366864}
+{"ds": "vehicle", "K": 4, "d": 18, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.42011834319526625, "acc_ref": 0.42011834319526625, "agree": 1.0}
+{"ds": "cylinder-bands", "K": 2, "d": 102, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.7222222222222222, "acc_ref": 0.7222222222222222, "agree": 1.0}
+{"ds": "cylinder-bands", "K": 2, "d": 102, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7129629629629629, "acc_ref": 0.7129629629629629, "agree": 1.0}
+{"ds": "cylinder-bands", "K": 2, "d": 102, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6851851851851852, "acc_ref": 0.6851851851851852, "agree": 1.0}
+{"ds": "cylinder-bands", "K": 2, "d": 102, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.7222222222222222, "acc_ref": 0.7222222222222222, "agree": 1.0}
+{"ds": "cylinder-bands", "K": 2, "d": 102, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6944444444444444, "acc_ref": 0.6944444444444444, "agree": 1.0}
+{"ds": "cylinder-bands", "K": 2, "d": 102, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6944444444444444, "acc_ref": 0.6944444444444444, "agree": 1.0}
+{"ds": "cylinder-bands", "K": 2, "d": 102, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.7314814814814815, "acc_ref": 0.7314814814814815, "agree": 1.0}
+{"ds": "cylinder-bands", "K": 2, "d": 102, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6944444444444444, "acc_ref": 0.6944444444444444, "agree": 1.0}
+{"ds": "cylinder-bands", "K": 2, "d": 102, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6666666666666666, "acc_ref": 0.6666666666666666, "agree": 1.0}
+{"ds": "cylinder-bands", "K": 2, "d": 102, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.7407407407407407, "acc_ref": 0.7407407407407407, "agree": 1.0}
+{"ds": "cylinder-bands", "K": 2, "d": 102, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.75, "acc_ref": 0.75, "agree": 1.0}
+{"ds": "cylinder-bands", "K": 2, "d": 102, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7222222222222222, "acc_ref": 0.7222222222222222, "agree": 1.0}
+{"ds": "cylinder-bands", "K": 2, "d": 102, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.7129629629629629, "acc_ref": 0.7129629629629629, "agree": 1.0}
+{"ds": "cylinder-bands", "K": 2, "d": 102, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7129629629629629, "acc_ref": 0.7129629629629629, "agree": 1.0}
+{"ds": "cylinder-bands", "K": 2, "d": 102, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7407407407407407, "acc_ref": 0.7407407407407407, "agree": 1.0}
+{"ds": "connect-4", "K": 3, "d": 126, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.647, "acc_ref": 0.647, "agree": 1.0}
+{"ds": "connect-4", "K": 3, "d": 126, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7284, "acc_ref": 0.7284, "agree": 1.0}
+{"ds": "connect-4", "K": 3, "d": 126, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.273, "acc_ref": 0.273, "agree": 1.0}
+{"ds": "connect-4", "K": 3, "d": 126, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.666, "acc_ref": 0.666, "agree": 1.0}
+{"ds": "connect-4", "K": 3, "d": 126, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7368, "acc_ref": 0.7368, "agree": 1.0}
+{"ds": "connect-4", "K": 3, "d": 126, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.2986, "acc_ref": 0.2986, "agree": 1.0}
+{"ds": "connect-4", "K": 3, "d": 126, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.6486, "acc_ref": 0.6486, "agree": 1.0}
+{"ds": "connect-4", "K": 3, "d": 126, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.731, "acc_ref": 0.731, "agree": 1.0}
+{"ds": "connect-4", "K": 3, "d": 126, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.283, "acc_ref": 0.283, "agree": 1.0}
+{"ds": "connect-4", "K": 3, "d": 126, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.644, "acc_ref": 0.644, "agree": 1.0}
+{"ds": "connect-4", "K": 3, "d": 126, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7352, "acc_ref": 0.7352, "agree": 1.0}
+{"ds": "connect-4", "K": 3, "d": 126, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.2838, "acc_ref": 0.2838, "agree": 1.0}
+{"ds": "connect-4", "K": 3, "d": 126, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.6544, "acc_ref": 0.6544, "agree": 1.0}
+{"ds": "connect-4", "K": 3, "d": 126, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7482, "acc_ref": 0.7482, "agree": 1.0}
+{"ds": "connect-4", "K": 3, "d": 126, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.2594, "acc_ref": 0.2594, "agree": 1.0}
+{"ds": "splice", "K": 3, "d": 287, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.9435736677115988, "acc_ref": 0.9435736677115988, "agree": 1.0}
+{"ds": "splice", "K": 3, "d": 287, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.945141065830721, "acc_ref": 0.945141065830721, "agree": 1.0}
+{"ds": "splice", "K": 3, "d": 287, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7366771159874608, "acc_ref": 0.7366771159874608, "agree": 1.0}
+{"ds": "splice", "K": 3, "d": 287, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.9341692789968652, "acc_ref": 0.9341692789968652, "agree": 1.0}
+{"ds": "splice", "K": 3, "d": 287, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9310344827586207, "acc_ref": 0.9310344827586207, "agree": 1.0}
+{"ds": "splice", "K": 3, "d": 287, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7241379310344828, "acc_ref": 0.7241379310344828, "agree": 1.0}
+{"ds": "splice", "K": 3, "d": 287, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.9200626959247649, "acc_ref": 0.9200626959247649, "agree": 1.0}
+{"ds": "splice", "K": 3, "d": 287, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9373040752351097, "acc_ref": 0.9373040752351097, "agree": 1.0}
+{"ds": "splice", "K": 3, "d": 287, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.725705329153605, "acc_ref": 0.725705329153605, "agree": 1.0}
+{"ds": "splice", "K": 3, "d": 287, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.9357366771159875, "acc_ref": 0.9357366771159875, "agree": 1.0}
+{"ds": "splice", "K": 3, "d": 287, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9388714733542319, "acc_ref": 0.9388714733542319, "agree": 1.0}
+{"ds": "splice", "K": 3, "d": 287, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.9278996865203761, "acc_ref": 0.9278996865203761, "agree": 1.0}
+{"ds": "splice", "K": 3, "d": 287, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.9200626959247649, "acc_ref": 0.9200626959247649, "agree": 1.0}
+{"ds": "splice", "K": 3, "d": 287, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9216300940438872, "acc_ref": 0.9216300940438872, "agree": 1.0}
+{"ds": "splice", "K": 3, "d": 287, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7241379310344828, "acc_ref": 0.7241379310344828, "agree": 1.0}
+{"ds": "letter", "K": 26, "d": 16, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.47825, "acc_ref": 0.47825, "agree": 1.0}
+{"ds": "letter", "K": 26, "d": 16, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.69725, "acc_ref": 0.70425, "agree": 0.94325}
+{"ds": "letter", "K": 26, "d": 16, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6425, "acc_ref": 0.6425, "agree": 1.0}
+{"ds": "letter", "K": 26, "d": 16, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.4705, "acc_ref": 0.4705, "agree": 1.0}
+{"ds": "letter", "K": 26, "d": 16, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.70725, "acc_ref": 0.70675, "agree": 0.94875}
+{"ds": "letter", "K": 26, "d": 16, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.64225, "acc_ref": 0.64225, "agree": 1.0}
+{"ds": "letter", "K": 26, "d": 16, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.46375, "acc_ref": 0.46375, "agree": 1.0}
+{"ds": "letter", "K": 26, "d": 16, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.683, "acc_ref": 0.6925, "agree": 0.92425}
+{"ds": "letter", "K": 26, "d": 16, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.63, "acc_ref": 0.63, "agree": 1.0}
+{"ds": "letter", "K": 26, "d": 16, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.47525, "acc_ref": 0.47525, "agree": 1.0}
+{"ds": "letter", "K": 26, "d": 16, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.53425, "acc_ref": 0.70375, "agree": 0.619}
+{"ds": "letter", "K": 26, "d": 16, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.64475, "acc_ref": 0.64475, "agree": 1.0}
+{"ds": "letter", "K": 26, "d": 16, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.474, "acc_ref": 0.474, "agree": 1.0}
+{"ds": "letter", "K": 26, "d": 16, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6945, "acc_ref": 0.70175, "agree": 0.929}
+{"ds": "letter", "K": 26, "d": 16, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.659, "acc_ref": 0.659, "agree": 1.0}
+{"ds": "isolet", "K": 26, "d": 617, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.7243589743589743, "acc_ref": 0.7243589743589743, "agree": 1.0}
+{"ds": "isolet", "K": 26, "d": 617, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9128205128205128, "acc_ref": 0.9128205128205128, "agree": 1.0}
+{"ds": "isolet", "K": 26, "d": 617, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8121794871794872, "acc_ref": 0.8121794871794872, "agree": 1.0}
+{"ds": "isolet", "K": 26, "d": 617, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.7070512820512821, "acc_ref": 0.7070512820512821, "agree": 1.0}
+{"ds": "isolet", "K": 26, "d": 617, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9211538461538461, "acc_ref": 0.9211538461538461, "agree": 1.0}
+{"ds": "isolet", "K": 26, "d": 617, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8448717948717949, "acc_ref": 0.8448717948717949, "agree": 1.0}
+{"ds": "isolet", "K": 26, "d": 617, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.7338037203335471, "acc_ref": 0.7338037203335471, "agree": 1.0}
+{"ds": "isolet", "K": 26, "d": 617, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9281590763309814, "acc_ref": 0.9281590763309814, "agree": 1.0}
+{"ds": "isolet", "K": 26, "d": 617, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8486209108402822, "acc_ref": 0.8486209108402822, "agree": 1.0}
+{"ds": "isolet", "K": 26, "d": 617, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.7305965362411803, "acc_ref": 0.7305965362411803, "agree": 1.0}
+{"ds": "isolet", "K": 26, "d": 617, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9249518922386145, "acc_ref": 0.9249518922386145, "agree": 1.0}
+{"ds": "isolet", "K": 26, "d": 617, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.831302116741501, "acc_ref": 0.8306606799230276, "agree": 0.9993585631815266}
+{"ds": "isolet", "K": 26, "d": 617, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.7119948685054522, "acc_ref": 0.7119948685054522, "agree": 1.0}
+{"ds": "isolet", "K": 26, "d": 617, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9172546504169339, "acc_ref": 0.9172546504169339, "agree": 1.0}
+{"ds": "isolet", "K": 26, "d": 617, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8569595894804362, "acc_ref": 0.8563181526619628, "agree": 0.9993585631815266}
+{"ds": "Bioresponse", "K": 2, "d": 1776, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.6218375499334221, "acc_ref": 0.6218375499334221, "agree": 1.0}
+{"ds": "Bioresponse", "K": 2, "d": 1776, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.625832223701731, "acc_ref": 0.625832223701731, "agree": 1.0}
+{"ds": "Bioresponse", "K": 2, "d": 1776, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6058588548601864, "acc_ref": 0.6058588548601864, "agree": 1.0}
+{"ds": "Bioresponse", "K": 2, "d": 1776, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.5706666666666667, "acc_ref": 0.5706666666666667, "agree": 1.0}
+{"ds": "Bioresponse", "K": 2, "d": 1776, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.624, "acc_ref": 0.624, "agree": 1.0}
+{"ds": "Bioresponse", "K": 2, "d": 1776, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6093333333333333, "acc_ref": 0.6093333333333333, "agree": 1.0}
+{"ds": "Bioresponse", "K": 2, "d": 1776, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.6333333333333333, "acc_ref": 0.6333333333333333, "agree": 1.0}
+{"ds": "Bioresponse", "K": 2, "d": 1776, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6466666666666666, "acc_ref": 0.6466666666666666, "agree": 1.0}
+{"ds": "Bioresponse", "K": 2, "d": 1776, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.612, "acc_ref": 0.612, "agree": 1.0}
+{"ds": "Bioresponse", "K": 2, "d": 1776, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.5786666666666667, "acc_ref": 0.5786666666666667, "agree": 1.0}
+{"ds": "Bioresponse", "K": 2, "d": 1776, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.632, "acc_ref": 0.632, "agree": 1.0}
+{"ds": "Bioresponse", "K": 2, "d": 1776, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6093333333333333, "acc_ref": 0.6093333333333333, "agree": 1.0}
+{"ds": "Bioresponse", "K": 2, "d": 1776, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.5693333333333334, "acc_ref": 0.5693333333333334, "agree": 1.0}
+{"ds": "Bioresponse", "K": 2, "d": 1776, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6146666666666667, "acc_ref": 0.6146666666666667, "agree": 1.0}
+{"ds": "Bioresponse", "K": 2, "d": 1776, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.6106666666666667, "acc_ref": 0.608, "agree": 0.9973333333333333}
+{"ds": "Internet-Advertisements", "K": 2, "d": 3113, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.9192073170731707, "acc_ref": 0.9192073170731707, "agree": 1.0}
+{"ds": "Internet-Advertisements", "K": 2, "d": 3113, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9329268292682927, "acc_ref": 0.9329268292682927, "agree": 1.0}
+{"ds": "Internet-Advertisements", "K": 2, "d": 3113, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7652439024390244, "acc_ref": 0.7652439024390244, "agree": 1.0}
+{"ds": "Internet-Advertisements", "K": 2, "d": 3113, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.9298780487804879, "acc_ref": 0.9298780487804879, "agree": 1.0}
+{"ds": "Internet-Advertisements", "K": 2, "d": 3113, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9375, "acc_ref": 0.9375, "agree": 1.0}
+{"ds": "Internet-Advertisements", "K": 2, "d": 3113, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7759146341463414, "acc_ref": 0.7759146341463414, "agree": 1.0}
+{"ds": "Internet-Advertisements", "K": 2, "d": 3113, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.9329268292682927, "acc_ref": 0.9329268292682927, "agree": 1.0}
+{"ds": "Internet-Advertisements", "K": 2, "d": 3113, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9451219512195121, "acc_ref": 0.9451219512195121, "agree": 1.0}
+{"ds": "Internet-Advertisements", "K": 2, "d": 3113, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7759146341463414, "acc_ref": 0.7759146341463414, "agree": 1.0}
+{"ds": "Internet-Advertisements", "K": 2, "d": 3113, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.9298780487804879, "acc_ref": 0.9298780487804879, "agree": 1.0}
+{"ds": "Internet-Advertisements", "K": 2, "d": 3113, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9405487804878049, "acc_ref": 0.9405487804878049, "agree": 1.0}
+{"ds": "Internet-Advertisements", "K": 2, "d": 3113, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.7560975609756098, "acc_ref": 0.7560975609756098, "agree": 1.0}
+{"ds": "Internet-Advertisements", "K": 2, "d": 3113, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.9145038167938931, "acc_ref": 0.9145038167938931, "agree": 1.0}
+{"ds": "Internet-Advertisements", "K": 2, "d": 3113, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.9312977099236641, "acc_ref": 0.9312977099236641, "agree": 1.0}
+{"ds": "Internet-Advertisements", "K": 2, "d": 3113, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.8061068702290076, "acc_ref": 0.8061068702290076, "agree": 1.0}
+{"ds": "mnist_784", "K": 10, "d": 719, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.8032, "acc_ref": 0.8032, "agree": 1.0}
+{"ds": "mnist_784", "K": 10, "d": 719, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8338, "acc_ref": 0.8338, "agree": 1.0}
+{"ds": "mnist_784", "K": 10, "d": 719, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5788, "acc_ref": 0.5788, "agree": 1.0}
+{"ds": "mnist_784", "K": 10, "d": 719, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.8002, "acc_ref": 0.8002, "agree": 1.0}
+{"ds": "mnist_784", "K": 10, "d": 719, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.838, "acc_ref": 0.838, "agree": 1.0}
+{"ds": "mnist_784", "K": 10, "d": 719, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5508, "acc_ref": 0.5508, "agree": 1.0}
+{"ds": "mnist_784", "K": 10, "d": 719, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.7958, "acc_ref": 0.7958, "agree": 1.0}
+{"ds": "mnist_784", "K": 10, "d": 719, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8332, "acc_ref": 0.8332, "agree": 0.9998}
+{"ds": "mnist_784", "K": 10, "d": 719, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.599, "acc_ref": 0.599, "agree": 1.0}
+{"ds": "mnist_784", "K": 10, "d": 719, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.8064, "acc_ref": 0.8064, "agree": 1.0}
+{"ds": "mnist_784", "K": 10, "d": 719, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.84, "acc_ref": 0.84, "agree": 1.0}
+{"ds": "mnist_784", "K": 10, "d": 719, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5802, "acc_ref": 0.5802, "agree": 1.0}
+{"ds": "mnist_784", "K": 10, "d": 719, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.8038, "acc_ref": 0.8038, "agree": 1.0}
+{"ds": "mnist_784", "K": 10, "d": 719, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.8412, "acc_ref": 0.8412, "agree": 1.0}
+{"ds": "mnist_784", "K": 10, "d": 719, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5724, "acc_ref": 0.5724, "agree": 1.0}
+{"ds": "Fashion-MNIST", "K": 10, "d": 784, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.6646, "acc_ref": 0.6646, "agree": 1.0}
+{"ds": "Fashion-MNIST", "K": 10, "d": 784, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7504, "acc_ref": 0.7504, "agree": 1.0}
+{"ds": "Fashion-MNIST", "K": 10, "d": 784, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5494, "acc_ref": 0.5494, "agree": 1.0}
+{"ds": "Fashion-MNIST", "K": 10, "d": 784, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.6608, "acc_ref": 0.6608, "agree": 1.0}
+{"ds": "Fashion-MNIST", "K": 10, "d": 784, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7458, "acc_ref": 0.7458, "agree": 1.0}
+{"ds": "Fashion-MNIST", "K": 10, "d": 784, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5452, "acc_ref": 0.5452, "agree": 1.0}
+{"ds": "Fashion-MNIST", "K": 10, "d": 784, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.6662, "acc_ref": 0.6662, "agree": 1.0}
+{"ds": "Fashion-MNIST", "K": 10, "d": 784, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7448, "acc_ref": 0.7448, "agree": 1.0}
+{"ds": "Fashion-MNIST", "K": 10, "d": 784, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5702, "acc_ref": 0.5702, "agree": 1.0}
+{"ds": "Fashion-MNIST", "K": 10, "d": 784, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.6482, "acc_ref": 0.6482, "agree": 1.0}
+{"ds": "Fashion-MNIST", "K": 10, "d": 784, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.73, "acc_ref": 0.73, "agree": 1.0}
+{"ds": "Fashion-MNIST", "K": 10, "d": 784, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5224, "acc_ref": 0.5224, "agree": 1.0}
+{"ds": "Fashion-MNIST", "K": 10, "d": 784, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.6654, "acc_ref": 0.6654, "agree": 1.0}
+{"ds": "Fashion-MNIST", "K": 10, "d": 784, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.7544, "acc_ref": 0.7546, "agree": 0.9998}
+{"ds": "Fashion-MNIST", "K": 10, "d": 784, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5346, "acc_ref": 0.5346, "agree": 1.0}
+{"ds": "Devnagari-Script", "K": 46, "d": 784, "fold": 0, "method": "SEFR", "status": 0, "acc_c": 0.4994, "acc_ref": 0.4994, "agree": 1.0}
+{"ds": "Devnagari-Script", "K": 46, "d": 784, "fold": 0, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6262, "acc_ref": 0.6262, "agree": 0.9992}
+{"ds": "Devnagari-Script", "K": 46, "d": 784, "fold": 0, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5132, "acc_ref": 0.5132, "agree": 1.0}
+{"ds": "Devnagari-Script", "K": 46, "d": 784, "fold": 1, "method": "SEFR", "status": 0, "acc_c": 0.4908, "acc_ref": 0.4908, "agree": 1.0}
+{"ds": "Devnagari-Script", "K": 46, "d": 784, "fold": 1, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6238, "acc_ref": 0.624, "agree": 0.9998}
+{"ds": "Devnagari-Script", "K": 46, "d": 784, "fold": 1, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.4986, "acc_ref": 0.4986, "agree": 1.0}
+{"ds": "Devnagari-Script", "K": 46, "d": 784, "fold": 2, "method": "SEFR", "status": 0, "acc_c": 0.498, "acc_ref": 0.498, "agree": 1.0}
+{"ds": "Devnagari-Script", "K": 46, "d": 784, "fold": 2, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6262, "acc_ref": 0.6264, "agree": 0.9998}
+{"ds": "Devnagari-Script", "K": 46, "d": 784, "fold": 2, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5024, "acc_ref": 0.5024, "agree": 1.0}
+{"ds": "Devnagari-Script", "K": 46, "d": 784, "fold": 3, "method": "SEFR", "status": 0, "acc_c": 0.5036, "acc_ref": 0.5036, "agree": 1.0}
+{"ds": "Devnagari-Script", "K": 46, "d": 784, "fold": 3, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6258, "acc_ref": 0.6258, "agree": 1.0}
+{"ds": "Devnagari-Script", "K": 46, "d": 784, "fold": 3, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.4664, "acc_ref": 0.4664, "agree": 1.0}
+{"ds": "Devnagari-Script", "K": 46, "d": 784, "fold": 4, "method": "SEFR", "status": 0, "acc_c": 0.4984, "acc_ref": 0.4984, "agree": 1.0}
+{"ds": "Devnagari-Script", "K": 46, "d": 784, "fold": 4, "method": "SEFR + LDA", "status": 0, "acc_c": 0.6332, "acc_ref": 0.6332, "agree": 0.9998}
+{"ds": "Devnagari-Script", "K": 46, "d": 784, "fold": 4, "method": "Gaussian NB (CMSIS predictor)", "status": 0, "acc_c": 0.5046, "acc_ref": 0.5046, "agree": 1.0}

@@ -1,0 +1,10 @@
+# Host (macOS / Linux) build of the prototype and the GNB baseline as one shared library for check_cc18.py.
+cmake_minimum_required(VERSION 3.20)
+project(sefr_host C)
+set(HOST ON CACHE BOOL "" FORCE)
+set(DISABLEFLOAT16 ON CACHE BOOL "" FORCE)
+set(CMAKE_POSITION_INDEPENDENT_CODE ON)
+add_subdirectory(../third_party/CMSIS-DSP cmsisdsp)
+add_library(sefrhost SHARED ../src/arm_sefr_f32.c ../bench/gnb_train.c)
+target_include_directories(sefrhost PUBLIC ../src)
+target_link_libraries(sefrhost PUBLIC CMSISDSP)
